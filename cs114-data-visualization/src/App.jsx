@@ -1,5 +1,5 @@
 import StudentStats from './components/StudentStats.jsx'
-import { Chart, CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, LineElement, PointElement} from 'chart.js';
+import { Chart, CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, LineElement, PointElement, LineController} from 'chart.js';
 Chart.register(
     CategoryScale,
     LinearScale,
@@ -9,6 +9,7 @@ Chart.register(
     Title,
     Tooltip,
     Legend,
+    LineController
 )
 Chart.defaults.font.family = 'Torus Pro';
 
