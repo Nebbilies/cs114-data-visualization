@@ -437,35 +437,6 @@
     "avgSubmissionsPerDay": "11.54"
   },
   {
-    "username": "83e4ca230ab9b35d221d09d335850af44966b772",
-    "problemTried": 2,
-    "problemSolved": 0,
-    "totalSubmissions": 3,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 3
-    },
-    "hours": {
-      "2": 3
-    },
-    "ck": 6,
-    "qt": 6.5,
-    "th": 3.5,
-    "totalCompletionRateDelta": -18.75862068965517,
-    "avgCompletionRateDelta": -18.759,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 3461,
-    "avgSubmissionsPerDay": 0
-  },
-  {
     "username": "a22a58c5be8aa2c2700619e37f2b7a6e4efa7e6b",
     "problemTried": 103,
     "problemSolved": 98,
@@ -1821,35 +1792,6 @@
     "avgSubmissionsPerDay": "15.96"
   },
   {
-    "username": "020f253c343856ea875e959023e79fb1d4d9c0a3",
-    "problemTried": 2,
-    "problemSolved": 1,
-    "totalSubmissions": 3,
-    "assignmentDetails": {
-      "assignments": {
-        "2c36c78a351f1103182430948811e7255660b8c6": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 3
-    },
-    "hours": {
-      "9": 3
-    },
-    "ck": 8,
-    "qt": 10,
-    "th": 10,
-    "totalCompletionRateDelta": 10.4,
-    "avgCompletionRateDelta": 10.4,
-    "avgInverseSolvingRate": 21.090000000000003,
-    "avgScoreFinalSubmission": 5000,
-    "avgSubmissionsPerDay": 0
-  },
-  {
     "username": "139aa923bf965f373c678ba8c10f500d78269e20",
     "problemTried": 70,
     "problemSolved": 68,
@@ -3057,62 +2999,6 @@
     "avgInverseSolvingRate": 11.34125,
     "avgScoreFinalSubmission": 9505.882,
     "avgSubmissionsPerDay": "19.90"
-  },
-  {
-    "username": "701f03bc7072ef7b0114a4769bc8955e5e5c9af2",
-    "problemTried": 10,
-    "problemSolved": 8,
-    "totalSubmissions": 47,
-    "assignmentDetails": {
-      "assignments": {
-        "7638c5a850454dd8b3e4d31c9a781b1eeaca039f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 1,
-          "percentageSolved": 50
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 1,
-          "percentageSolved": 50
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 1,
-          "percentageSolved": 50
-        }
-      },
-      "participatedAssignments": 5
-    },
-    "dates": {
-      "10-24": 6,
-      "10-26": 1,
-      "01-03": 7,
-      "01-04": 9,
-      "01-08": 24
-    },
-    "hours": {
-      "3": 6,
-      "4": 10,
-      "8": 7,
-      "9": 7,
-      "14": 1,
-      "15": 1,
-      "16": 12,
-      "17": 3
-    },
-    "ck": 6,
-    "qt": 10,
-    "th": 8,
-    "totalCompletionRateDelta": -76.9340153466072,
-    "avgCompletionRateDelta": -15.387,
-    "avgInverseSolvingRate": 6.517142857142858,
-    "avgScoreFinalSubmission": 8000,
-    "avgSubmissionsPerDay": "11.50"
   },
   {
     "username": "927008a1eb1983b52fe269b504f398ca185603c3",
@@ -5218,76 +5104,6 @@
     "avgSubmissionsPerDay": "6.00"
   },
   {
-    "username": "50779b692cc73e3ba24df84db11b8e2bbb062591",
-    "problemTried": 21,
-    "problemSolved": 21,
-    "totalSubmissions": 48,
-    "assignmentDetails": {
-      "assignments": {
-        "7638c5a850454dd8b3e4d31c9a781b1eeaca039f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 6,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 7
-    },
-    "dates": {
-      "10-20": 2,
-      "10-23": 6,
-      "12-29": 4,
-      "01-03": 6,
-      "01-05": 8,
-      "01-07": 5,
-      "01-08": 9,
-      "01-09": 6,
-      "01-10": 2
-    },
-    "hours": {
-      "1": 4,
-      "2": 4,
-      "6": 5,
-      "7": 4,
-      "13": 7,
-      "14": 7,
-      "15": 1,
-      "16": 4,
-      "17": 7,
-      "18": 5
-    },
-    "ck": 7,
-    "qt": 9,
-    "th": 7.5,
-    "totalCompletionRateDelta": 109.67455837134152,
-    "avgCompletionRateDelta": 15.668,
-    "avgInverseSolvingRate": 6.702000000000001,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": "7.00"
-  },
-  {
     "username": "ac6522ed2e2b8a808bb80970ccffcb6572183349",
     "problemTried": 87,
     "problemSolved": 84,
@@ -5936,53 +5752,6 @@
     "avgSubmissionsPerDay": "20.80"
   },
   {
-    "username": "394f4eb7fa3337f92a1148e8e9ba1727995bc8f5",
-    "problemTried": 7,
-    "problemSolved": 6,
-    "totalSubmissions": 12,
-    "assignmentDetails": {
-      "assignments": {
-        "7638c5a850454dd8b3e4d31c9a781b1eeaca039f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 1,
-          "percentageSolved": 16.666666666666664
-        }
-      },
-      "participatedAssignments": 4
-    },
-    "dates": {
-      "10-21": 1,
-      "01-07": 4,
-      "01-08": 6,
-      "01-09": 1
-    },
-    "hours": {
-      "3": 5,
-      "6": 4,
-      "7": 2,
-      "14": 1
-    },
-    "ck": 7.5,
-    "qt": 9,
-    "th": 9,
-    "totalCompletionRateDelta": -109.48338030503979,
-    "avgCompletionRateDelta": -27.371,
-    "avgInverseSolvingRate": 3.2640000000000016,
-    "avgScoreFinalSubmission": 8571.429,
-    "avgSubmissionsPerDay": "6.00"
-  },
-  {
     "username": "0306a80129ed6d5afadece8164929697bbbdea69",
     "problemTried": 17,
     "problemSolved": 13,
@@ -6269,36 +6038,6 @@
     "avgInverseSolvingRate": 5.312948717948719,
     "avgScoreFinalSubmission": 9585.035,
     "avgSubmissionsPerDay": "20.25"
-  },
-  {
-    "username": "1ff3bf1f9353578bd902ce0b3879369b46c72640",
-    "problemTried": 3,
-    "problemSolved": 3,
-    "totalSubmissions": 3,
-    "assignmentDetails": {
-      "assignments": {
-        "f8d46b863c7cb8ec934fa0043264dfdb01209630": {
-          "problemsSolved": 3,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-25": 3
-    },
-    "hours": {
-      "2": 1,
-      "4": 2
-    },
-    "ck": 0,
-    "qt": 0,
-    "th": 1,
-    "totalCompletionRateDelta": 6.944444444444457,
-    "avgCompletionRateDelta": 6.944,
-    "avgInverseSolvingRate": 5.636666666666666,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": 0
   },
   {
     "username": "c084f1399d2813131b70acb3920068a454cea6d5",
@@ -7182,35 +6921,6 @@
     "avgInverseSolvingRate": 6.453762376237625,
     "avgScoreFinalSubmission": 9680.019,
     "avgSubmissionsPerDay": "12.00"
-  },
-  {
-    "username": "0b26c12ecc1bc4c1f127d5e6f6302b1b0b584faf",
-    "problemTried": 5,
-    "problemSolved": 0,
-    "totalSubmissions": 5,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 5
-    },
-    "hours": {
-      "3": 5
-    },
-    "ck": 5,
-    "qt": 7,
-    "th": 1,
-    "totalCompletionRateDelta": -18.75862068965517,
-    "avgCompletionRateDelta": -18.759,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 0,
-    "avgSubmissionsPerDay": 0
   },
   {
     "username": "771f7a4ff0b16239a5f4a828485e057bd3069308",
@@ -10717,30 +10427,6 @@
     "avgSubmissionsPerDay": "63.00"
   },
   {
-    "username": "713487f0de26590bca3c759e2fef02b3a5bad9fd",
-    "problemTried": 1,
-    "problemSolved": 1,
-    "totalSubmissions": 1,
-    "assignmentDetails": {
-      "assignments": {},
-      "participatedAssignments": 0
-    },
-    "dates": {
-      "10-15": 1
-    },
-    "hours": {
-      "1": 1
-    },
-    "ck": 6.5,
-    "qt": 10,
-    "th": 5.5,
-    "totalCompletionRateDelta": 0,
-    "avgCompletionRateDelta": 0,
-    "avgInverseSolvingRate": 3.1700000000000017,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": 0
-  },
-  {
     "username": "78ca432228d8679112c09d9b3d50491c5539681a",
     "problemTried": 2,
     "problemSolved": 1,
@@ -11173,30 +10859,6 @@
     "avgInverseSolvingRate": 6.502881355932202,
     "avgScoreFinalSubmission": 9475.794,
     "avgSubmissionsPerDay": "68.00"
-  },
-  {
-    "username": "79f071f88a5c4c3bd278b93f9f622e90e15a10f0",
-    "problemTried": 1,
-    "problemSolved": 0,
-    "totalSubmissions": 1,
-    "assignmentDetails": {
-      "assignments": {},
-      "participatedAssignments": 0
-    },
-    "dates": {
-      "02-11": 1
-    },
-    "hours": {
-      "10": 1
-    },
-    "ck": 3.5,
-    "qt": 1,
-    "th": 5.5,
-    "totalCompletionRateDelta": 0,
-    "avgCompletionRateDelta": 0,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 0,
-    "avgSubmissionsPerDay": 0
   },
   {
     "username": "128ed4bebb12d030efad936db13d26a620bd620a",
@@ -11832,31 +11494,6 @@
     "avgSubmissionsPerDay": "9.67"
   },
   {
-    "username": "308b8bd2a17694ea81d601d025d5cb4ea6fc1fba",
-    "problemTried": 1,
-    "problemSolved": 0,
-    "totalSubmissions": 9,
-    "assignmentDetails": {
-      "assignments": {},
-      "participatedAssignments": 0
-    },
-    "dates": {
-      "01-02": 9
-    },
-    "hours": {
-      "15": 7,
-      "16": 2
-    },
-    "ck": 7.5,
-    "qt": 10,
-    "th": 8.5,
-    "totalCompletionRateDelta": 0,
-    "avgCompletionRateDelta": 0,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 9285,
-    "avgSubmissionsPerDay": "9.00"
-  },
-  {
     "username": "c67df30ae6cf151f19df3e36d15f0361619ed47a",
     "problemTried": 59,
     "problemSolved": 55,
@@ -12126,54 +11763,6 @@
     "avgInverseSolvingRate": 8.517196261682246,
     "avgScoreFinalSubmission": 9496.13,
     "avgSubmissionsPerDay": "18.28"
-  },
-  {
-    "username": "5504396737eadc63295f751ebf765c22b35b23db",
-    "problemTried": 10,
-    "problemSolved": 10,
-    "totalSubmissions": 13,
-    "assignmentDetails": {
-      "assignments": {
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 4
-    },
-    "dates": {
-      "01-07": 7,
-      "01-08": 2,
-      "01-09": 4
-    },
-    "hours": {
-      "5": 1,
-      "10": 2,
-      "13": 1,
-      "15": 1,
-      "16": 6,
-      "18": 2
-    },
-    "ck": 4,
-    "qt": 9,
-    "th": 6.5,
-    "totalCompletionRateDelta": 55.710708014048535,
-    "avgCompletionRateDelta": 13.928,
-    "avgInverseSolvingRate": 7.7470000000000026,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": "7.00"
   },
   {
     "username": "df1a661311bcb75b3b3c258c46ab75819bd6d249",
@@ -14705,30 +14294,6 @@
     "avgInverseSolvingRate": 5.416774193548389,
     "avgScoreFinalSubmission": 8663.649,
     "avgSubmissionsPerDay": "8.45"
-  },
-  {
-    "username": "0e63b2194be2efd4b5b5f2b6e2d77ac12aaadec3",
-    "problemTried": 1,
-    "problemSolved": 1,
-    "totalSubmissions": 2,
-    "assignmentDetails": {
-      "assignments": {},
-      "participatedAssignments": 0
-    },
-    "dates": {
-      "02-26": 2
-    },
-    "hours": {
-      "6": 2
-    },
-    "ck": 8,
-    "qt": 10,
-    "th": 9.5,
-    "totalCompletionRateDelta": 0,
-    "avgCompletionRateDelta": 0,
-    "avgInverseSolvingRate": 2.3700000000000045,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": 0
   },
   {
     "username": "f382c8f54d9fc494b6d8cc0751f694f0acbddca2",
@@ -18367,35 +17932,6 @@
     "avgSubmissionsPerDay": "10.75"
   },
   {
-    "username": "653de78f41ee12882a2cbc4177fb3c4e5c3eac28",
-    "problemTried": 5,
-    "problemSolved": 0,
-    "totalSubmissions": 8,
-    "assignmentDetails": {
-      "assignments": {
-        "2c36c78a351f1103182430948811e7255660b8c6": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 8
-    },
-    "hours": {
-      "8": 8
-    },
-    "ck": 6.5,
-    "qt": 8,
-    "th": 7,
-    "totalCompletionRateDelta": -9.6,
-    "avgCompletionRateDelta": -9.6,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 0,
-    "avgSubmissionsPerDay": "8.00"
-  },
-  {
     "username": "add17ba1901ea9804a604aeed6ebe191d784785d",
     "problemTried": 56,
     "problemSolved": 43,
@@ -19509,36 +19045,6 @@
     "avgInverseSolvingRate": 5.914531249999998,
     "avgScoreFinalSubmission": 9529.412,
     "avgSubmissionsPerDay": "26.50"
-  },
-  {
-    "username": "0367f82909c46a900501cc32d02b913923f75314",
-    "problemTried": 3,
-    "problemSolved": 1,
-    "totalSubmissions": 12,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 12
-    },
-    "hours": {
-      "2": 9,
-      "3": 3
-    },
-    "ck": 9,
-    "qt": 10,
-    "th": 10,
-    "totalCompletionRateDelta": 1.2413793103448292,
-    "avgCompletionRateDelta": 1.241,
-    "avgInverseSolvingRate": 5.599999999999994,
-    "avgScoreFinalSubmission": 6369.667,
-    "avgSubmissionsPerDay": "12.00"
   },
   {
     "username": "8fa7abd9421e396273c3571b177340434fc132f6",
@@ -20844,36 +20350,6 @@
     "avgInverseSolvingRate": 13.104558823529409,
     "avgScoreFinalSubmission": 9702.203,
     "avgSubmissionsPerDay": "17.46"
-  },
-  {
-    "username": "263102b5e7fbad9de96373d99c0697d8db856bb0",
-    "problemTried": 2,
-    "problemSolved": 1,
-    "totalSubmissions": 6,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 6
-    },
-    "hours": {
-      "2": 3,
-      "3": 3
-    },
-    "ck": 6.5,
-    "qt": 9.5,
-    "th": 7.5,
-    "totalCompletionRateDelta": 1.2413793103448292,
-    "avgCompletionRateDelta": 1.241,
-    "avgInverseSolvingRate": 5.599999999999994,
-    "avgScoreFinalSubmission": 5263,
-    "avgSubmissionsPerDay": "6.00"
   },
   {
     "username": "50708257bf26f0b517a6fa6acaa444d13f6006fc",
@@ -23509,30 +22985,6 @@
     "avgSubmissionsPerDay": "14.00"
   },
   {
-    "username": "503affec12fb99997f583ed73b60262572694795",
-    "problemTried": 1,
-    "problemSolved": 1,
-    "totalSubmissions": 1,
-    "assignmentDetails": {
-      "assignments": {},
-      "participatedAssignments": 0
-    },
-    "dates": {
-      "01-09": 1
-    },
-    "hours": {
-      "7": 1
-    },
-    "ck": 6.5,
-    "qt": 10,
-    "th": 5,
-    "totalCompletionRateDelta": 0,
-    "avgCompletionRateDelta": 0,
-    "avgInverseSolvingRate": 15.430000000000007,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": 0
-  },
-  {
     "username": "80cb3c3cef8030674baa141475951b20ae73089a",
     "problemTried": 65,
     "problemSolved": 60,
@@ -23891,36 +23343,6 @@
     "avgInverseSolvingRate": 5.3137,
     "avgScoreFinalSubmission": 9431.262,
     "avgSubmissionsPerDay": "17.82"
-  },
-  {
-    "username": "598a40125a414f949647ee201ecbe39553bedb6a",
-    "problemTried": 4,
-    "problemSolved": 0,
-    "totalSubmissions": 15,
-    "assignmentDetails": {
-      "assignments": {
-        "2c36c78a351f1103182430948811e7255660b8c6": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 15
-    },
-    "hours": {
-      "8": 10,
-      "9": 5
-    },
-    "ck": 8.5,
-    "qt": 10,
-    "th": 10,
-    "totalCompletionRateDelta": -9.6,
-    "avgCompletionRateDelta": -9.6,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 0,
-    "avgSubmissionsPerDay": "15.00"
   },
   {
     "username": "7e4e1a800af30eb9922c09f9d751b0873e0dc467",
@@ -26948,36 +26370,6 @@
     "avgSubmissionsPerDay": "10.00"
   },
   {
-    "username": "3b0e56cb91cf7c26836c7fe857ef2fef62c2031f",
-    "problemTried": 2,
-    "problemSolved": 1,
-    "totalSubmissions": 6,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 6
-    },
-    "hours": {
-      "2": 4,
-      "3": 2
-    },
-    "ck": 7,
-    "qt": 8.5,
-    "th": 10,
-    "totalCompletionRateDelta": 1.2413793103448292,
-    "avgCompletionRateDelta": 1.241,
-    "avgInverseSolvingRate": 5.599999999999994,
-    "avgScoreFinalSubmission": 5789,
-    "avgSubmissionsPerDay": "6.00"
-  },
-  {
     "username": "c15e04639eb35379bc74fd289f38b1c9d21e2278",
     "problemTried": 59,
     "problemSolved": 51,
@@ -28031,43 +27423,6 @@
     "avgSubmissionsPerDay": "14.33"
   },
   {
-    "username": "7d9accfb703fb86e2d5f39929309e7f273b46c79",
-    "problemTried": 7,
-    "problemSolved": 7,
-    "totalSubmissions": 11,
-    "assignmentDetails": {
-      "assignments": {
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 3,
-          "percentageSolved": 75
-        }
-      },
-      "participatedAssignments": 2
-    },
-    "dates": {
-      "01-03": 7,
-      "01-09": 4
-    },
-    "hours": {
-      "8": 1,
-      "10": 1,
-      "12": 7,
-      "14": 2
-    },
-    "ck": 2.5,
-    "qt": 9,
-    "th": 4.5,
-    "totalCompletionRateDelta": -1.8634733606557319,
-    "avgCompletionRateDelta": -0.932,
-    "avgInverseSolvingRate": 3.8985714285714295,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": "7.00"
-  },
-  {
     "username": "c787e77b224890e7fdcc8e2ca0c0577657d98581",
     "problemTried": 88,
     "problemSolved": 79,
@@ -28145,78 +27500,6 @@
     "avgInverseSolvingRate": 7.329240506329114,
     "avgScoreFinalSubmission": 9022.727,
     "avgSubmissionsPerDay": "16.00"
-  },
-  {
-    "username": "0799ab89dacde8042474f7bfe75a739fd151b73d",
-    "problemTried": 20,
-    "problemSolved": 20,
-    "totalSubmissions": 39,
-    "assignmentDetails": {
-      "assignments": {
-        "7638c5a850454dd8b3e4d31c9a781b1eeaca039f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 5,
-          "percentageSolved": 83.33333333333334
-        }
-      },
-      "participatedAssignments": 7
-    },
-    "dates": {
-      "10-20": 4,
-      "10-21": 9,
-      "10-22": 2,
-      "10-24": 2,
-      "01-03": 5,
-      "01-07": 6,
-      "01-08": 4,
-      "01-09": 6,
-      "01-10": 1
-    },
-    "hours": {
-      "0": 2,
-      "1": 1,
-      "4": 4,
-      "6": 1,
-      "7": 3,
-      "8": 2,
-      "9": 3,
-      "10": 4,
-      "11": 13,
-      "13": 2,
-      "14": 1,
-      "15": 3
-    },
-    "ck": 9,
-    "qt": 10,
-    "th": 5.5,
-    "totalCompletionRateDelta": 93.00789170467486,
-    "avgCompletionRateDelta": 13.287,
-    "avgInverseSolvingRate": 5.696315789473686,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": "7.00"
   },
   {
     "username": "94ec21d59f07c2091e0359a0085fa6c569ed30c4",
@@ -29330,63 +28613,6 @@
     "avgSubmissionsPerDay": "18.00"
   },
   {
-    "username": "34ffbe3d2820a74472b93e9dcabc0e17f75e779c",
-    "problemTried": 19,
-    "problemSolved": 16,
-    "totalSubmissions": 48,
-    "assignmentDetails": {
-      "assignments": {
-        "2c36c78a351f1103182430948811e7255660b8c6": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        },
-        "165ff2988251afb274d20c0de8ca582b80a1f64c": {
-          "problemsSolved": 9,
-          "percentageSolved": 90
-        },
-        "2879acd0ca19de22026d7d7dd7674d114bbd83b1": {
-          "problemsSolved": 5,
-          "percentageSolved": 25
-        },
-        "e5babf607c39beed77d646c09089d96d7aa41bd7": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        },
-        "8da4cd8437dac7af9bf10f87ceeda43adfce27bd": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 5
-    },
-    "dates": {
-      "09-05": 1,
-      "09-19": 28,
-      "10-02": 7,
-      "11-07": 9,
-      "12-25": 2,
-      "01-15": 1
-    },
-    "hours": {
-      "3": 1,
-      "4": 6,
-      "7": 20,
-      "8": 5,
-      "9": 4,
-      "10": 1,
-      "13": 9,
-      "14": 2
-    },
-    "ck": 6.5,
-    "qt": 9.5,
-    "th": 7.5,
-    "totalCompletionRateDelta": -121.68909636091044,
-    "avgCompletionRateDelta": -24.338,
-    "avgInverseSolvingRate": 4.421874999999999,
-    "avgScoreFinalSubmission": 9008.263,
-    "avgSubmissionsPerDay": "14.67"
-  },
-  {
     "username": "ac6104bfab84b79b7ff1f01c576e2b7442988f38",
     "problemTried": 48,
     "problemSolved": 36,
@@ -29545,44 +28771,6 @@
     "avgInverseSolvingRate": 3.719999999999999,
     "avgScoreFinalSubmission": 9176.471,
     "avgSubmissionsPerDay": "18.40"
-  },
-  {
-    "username": "1c38445c67beb9a58777c87a9c059cea1ccf2223",
-    "problemTried": 15,
-    "problemSolved": 12,
-    "totalSubmissions": 26,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        },
-        "606f44c909551899599ae5f6dce34377c694b237": {
-          "problemsSolved": 10,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 2
-    },
-    "dates": {
-      "09-05": 9,
-      "02-20": 1,
-      "05-08": 16
-    },
-    "hours": {
-      "1": 1,
-      "2": 20,
-      "3": 4,
-      "13": 1
-    },
-    "ck": 10,
-    "qt": 10,
-    "th": 10,
-    "totalCompletionRateDelta": 12.24137931034483,
-    "avgCompletionRateDelta": 6.121,
-    "avgInverseSolvingRate": 3.9849999999999994,
-    "avgScoreFinalSubmission": 8433.867,
-    "avgSubmissionsPerDay": "12.50"
   },
   {
     "username": "89cd14d1bb26c559102e9080a85ffa977cde7fda",
@@ -32384,36 +31572,6 @@
     "avgSubmissionsPerDay": "17.25"
   },
   {
-    "username": "7b7d0625e7d073af7c6fa7c1df5ca43ab1232aba",
-    "problemTried": 2,
-    "problemSolved": 1,
-    "totalSubmissions": 3,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 3
-    },
-    "hours": {
-      "2": 2,
-      "3": 1
-    },
-    "ck": 7,
-    "qt": 9.5,
-    "th": 9,
-    "totalCompletionRateDelta": 1.2413793103448292,
-    "avgCompletionRateDelta": 1.241,
-    "avgInverseSolvingRate": 5.599999999999994,
-    "avgScoreFinalSubmission": 6315.5,
-    "avgSubmissionsPerDay": 0
-  },
-  {
     "username": "a05ee87ddc674ddf01518fe125eaeec0820ea53e",
     "problemTried": 89,
     "problemSolved": 45,
@@ -32512,73 +31670,6 @@
     "avgInverseSolvingRate": 4.836666666666668,
     "avgScoreFinalSubmission": 5993.596,
     "avgSubmissionsPerDay": "18.38"
-  },
-  {
-    "username": "081cbf0e54173c1b4c90be93a514521bc9c710fb",
-    "problemTried": 18,
-    "problemSolved": 18,
-    "totalSubmissions": 25,
-    "assignmentDetails": {
-      "assignments": {
-        "7638c5a850454dd8b3e4d31c9a781b1eeaca039f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 3,
-          "percentageSolved": 50
-        }
-      },
-      "participatedAssignments": 7
-    },
-    "dates": {
-      "10-22": 1,
-      "12-28": 4,
-      "12-29": 3,
-      "01-06": 6,
-      "01-07": 3,
-      "01-08": 3,
-      "01-09": 5
-    },
-    "hours": {
-      "6": 3,
-      "8": 1,
-      "9": 3,
-      "10": 1,
-      "14": 1,
-      "15": 3,
-      "16": 4,
-      "17": 5,
-      "18": 4
-    },
-    "ck": 6.5,
-    "qt": 9,
-    "th": 8,
-    "totalCompletionRateDelta": 59.67455837134152,
-    "avgCompletionRateDelta": 8.525,
-    "avgInverseSolvingRate": 5.913529411764707,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": "6.00"
   },
   {
     "username": "74381df8a16f12280ebd12d45f8fff4fbcbcc4c8",
@@ -35634,46 +34725,6 @@
     "avgInverseSolvingRate": 4.97188679245283,
     "avgScoreFinalSubmission": 9724.771,
     "avgSubmissionsPerDay": "25.62"
-  },
-  {
-    "username": "6475c391e6ec554f2bbe5a6460e5962a4af5ac65",
-    "problemTried": 30,
-    "problemSolved": 20,
-    "totalSubmissions": 68,
-    "assignmentDetails": {
-      "assignments": {},
-      "participatedAssignments": 0
-    },
-    "dates": {
-      "01-07": 31,
-      "01-08": 19,
-      "01-09": 5,
-      "01-11": 12,
-      "02-25": 1
-    },
-    "hours": {
-      "1": 3,
-      "2": 3,
-      "3": 6,
-      "4": 13,
-      "5": 4,
-      "6": 1,
-      "9": 1,
-      "10": 4,
-      "11": 6,
-      "12": 10,
-      "13": 2,
-      "14": 7,
-      "15": 8
-    },
-    "ck": 7.5,
-    "qt": 10,
-    "th": 8,
-    "totalCompletionRateDelta": 0,
-    "avgCompletionRateDelta": 0,
-    "avgInverseSolvingRate": 12.415000000000001,
-    "avgScoreFinalSubmission": 7798.333,
-    "avgSubmissionsPerDay": "20.67"
   },
   {
     "username": "85838695003ef753ce13327655b84defa54d6eae",
@@ -39915,46 +38966,6 @@
     "avgSubmissionsPerDay": "14.75"
   },
   {
-    "username": "1ccece483f66d68acf592f017c1b5ca6c682542a",
-    "problemTried": 7,
-    "problemSolved": 2,
-    "totalSubmissions": 22,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 2,
-      "10-15": 2,
-      "10-20": 4,
-      "01-02": 13,
-      "01-05": 1
-    },
-    "hours": {
-      "2": 1,
-      "3": 1,
-      "7": 6,
-      "8": 1,
-      "9": 1,
-      "14": 2,
-      "15": 5,
-      "16": 5
-    },
-    "ck": 10,
-    "qt": 10,
-    "th": 10,
-    "totalCompletionRateDelta": -18.75862068965517,
-    "avgCompletionRateDelta": -18.759,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 5123.286,
-    "avgSubmissionsPerDay": "13.00"
-  },
-  {
     "username": "04feabadb3e2d863eded075f541be8ff78d50474",
     "problemTried": 81,
     "problemSolved": 80,
@@ -40177,59 +39188,6 @@
     "avgInverseSolvingRate": 5.707808219178082,
     "avgScoreFinalSubmission": 9864.865,
     "avgSubmissionsPerDay": "16.30"
-  },
-  {
-    "username": "1bdf6175e8df831b083615bea765e48098904986",
-    "problemTried": 21,
-    "problemSolved": 10,
-    "totalSubmissions": 52,
-    "assignmentDetails": {
-      "assignments": {
-        "2c36c78a351f1103182430948811e7255660b8c6": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "590cf6459bdae1e4327f25c1d1ea9c145d496054": {
-          "problemsSolved": 7,
-          "percentageSolved": 63.63636363636363
-        },
-        "8c0714acbfcd46672d8106a79afabc1efd0f6212": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        },
-        "3425a39c9806086b1732f59544b648443f44baa9": {
-          "problemsSolved": 1,
-          "percentageSolved": 10
-        },
-        "3df4116dc299542e123c1693c5f6be41b9d8e584": {
-          "problemsSolved": 1,
-          "percentageSolved": 12.5
-        }
-      },
-      "participatedAssignments": 5
-    },
-    "dates": {
-      "09-05": 12,
-      "09-27": 24,
-      "10-12": 12,
-      "11-16": 4
-    },
-    "hours": {
-      "1": 9,
-      "2": 5,
-      "3": 7,
-      "6": 2,
-      "7": 10,
-      "8": 19
-    },
-    "ck": 4.5,
-    "qt": 5.5,
-    "th": 7,
-    "totalCompletionRateDelta": -163.91891885878204,
-    "avgCompletionRateDelta": -32.784,
-    "avgInverseSolvingRate": 4.148999999999999,
-    "avgScoreFinalSubmission": 5120.857,
-    "avgSubmissionsPerDay": "16.00"
   },
   {
     "username": "013de369c439ab0ead8aa7da64423aa395a8be39",
@@ -41131,48 +40089,6 @@
     "avgSubmissionsPerDay": "20.29"
   },
   {
-    "username": "1dccadbfae8f0adb300cb239e727b2481e2b149e",
-    "problemTried": 11,
-    "problemSolved": 10,
-    "totalSubmissions": 34,
-    "assignmentDetails": {
-      "assignments": {
-        "b0dd68f2291609f06666e60e689623dea26a0dff": {
-          "problemsSolved": 8,
-          "percentageSolved": 61.53846153846154
-        },
-        "a24e2a245074bd4a09a7921b84bb7360b7da7b47": {
-          "problemsSolved": 2,
-          "percentageSolved": 20
-        }
-      },
-      "participatedAssignments": 2
-    },
-    "dates": {
-      "09-18": 24,
-      "10-02": 6,
-      "10-04": 4
-    },
-    "hours": {
-      "2": 5,
-      "3": 5,
-      "4": 6,
-      "6": 1,
-      "7": 9,
-      "8": 1,
-      "14": 2,
-      "15": 5
-    },
-    "ck": 9.5,
-    "qt": 10,
-    "th": 9,
-    "totalCompletionRateDelta": -74.26431580589795,
-    "avgCompletionRateDelta": -37.132,
-    "avgInverseSolvingRate": 10.467999999999996,
-    "avgScoreFinalSubmission": 9870.091,
-    "avgSubmissionsPerDay": "15.00"
-  },
-  {
     "username": "33c8bfb97b43132f0054b97a2ebb0f5f3768031d",
     "problemTried": 59,
     "problemSolved": 57,
@@ -41552,85 +40468,6 @@
     "avgInverseSolvingRate": 7.951041666666666,
     "avgScoreFinalSubmission": 8799.448,
     "avgSubmissionsPerDay": "15.18"
-  },
-  {
-    "username": "091ed1fe8fc042e202205f09f3d49a065c0f4da2",
-    "problemTried": 28,
-    "problemSolved": 24,
-    "totalSubmissions": 67,
-    "assignmentDetails": {
-      "assignments": {
-        "2c36c78a351f1103182430948811e7255660b8c6": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "7638c5a850454dd8b3e4d31c9a781b1eeaca039f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 6,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 7
-    },
-    "dates": {
-      "09-05": 8,
-      "09-16": 10,
-      "09-22": 4,
-      "09-29": 7,
-      "10-20": 3,
-      "12-28": 7,
-      "12-29": 3,
-      "12-30": 1,
-      "01-03": 1,
-      "01-05": 4,
-      "01-08": 7,
-      "01-09": 12
-    },
-    "hours": {
-      "0": 2,
-      "1": 7,
-      "2": 3,
-      "3": 7,
-      "4": 5,
-      "6": 4,
-      "7": 4,
-      "8": 4,
-      "9": 7,
-      "10": 2,
-      "11": 1,
-      "12": 1,
-      "13": 2,
-      "14": 12,
-      "15": 3,
-      "16": 3
-    },
-    "ck": 8,
-    "qt": 8,
-    "th": 9.5,
-    "totalCompletionRateDelta": 82.83317906099668,
-    "avgCompletionRateDelta": 11.833,
-    "avgInverseSolvingRate": 6.43952380952381,
-    "avgScoreFinalSubmission": 9055.25,
-    "avgSubmissionsPerDay": "8.50"
   },
   {
     "username": "5cc1caec2eb0968d6d30a6f95dd41d04e80c3f2c",
@@ -43838,33 +42675,6 @@
     "avgSubmissionsPerDay": "17.18"
   },
   {
-    "username": "66f103845d668685765328530c0aa2d71a0ce0d4",
-    "problemTried": 2,
-    "problemSolved": 0,
-    "totalSubmissions": 7,
-    "assignmentDetails": {
-      "assignments": {},
-      "participatedAssignments": 0
-    },
-    "dates": {
-      "09-27": 2,
-      "10-14": 5
-    },
-    "hours": {
-      "4": 5,
-      "15": 1,
-      "16": 1
-    },
-    "ck": 6.5,
-    "qt": 10,
-    "th": 8.5,
-    "totalCompletionRateDelta": 0,
-    "avgCompletionRateDelta": 0,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 4833,
-    "avgSubmissionsPerDay": 0
-  },
-  {
     "username": "59ee572da4b7c6d711c46542482cc65bdee55648",
     "problemTried": 6,
     "problemSolved": 5,
@@ -45517,36 +44327,6 @@
     "avgInverseSolvingRate": 6.696250000000001,
     "avgScoreFinalSubmission": 9946.348,
     "avgSubmissionsPerDay": "14.11"
-  },
-  {
-    "username": "0ba5c041f797e8baecc5f32034046994b801cbcf",
-    "problemTried": 5,
-    "problemSolved": 3,
-    "totalSubmissions": 25,
-    "assignmentDetails": {
-      "assignments": {
-        "27561f18ae10ea8470a8b294d9b00ba034d289ab": {
-          "problemsSolved": 3,
-          "percentageSolved": 25
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "10-16": 25
-    },
-    "hours": {
-      "7": 12,
-      "8": 13
-    },
-    "ck": 3.5,
-    "qt": 4.5,
-    "th": 6,
-    "totalCompletionRateDelta": -56.79824561403508,
-    "avgCompletionRateDelta": -56.798,
-    "avgInverseSolvingRate": 2.00666666666667,
-    "avgScoreFinalSubmission": 7600,
-    "avgSubmissionsPerDay": "25.00"
   },
   {
     "username": "af124b723c6d0d777c60479978e8da661b34bc2a",
@@ -49073,48 +47853,6 @@
     "avgSubmissionsPerDay": "13.43"
   },
   {
-    "username": "787ac9013d322ae24dda40f918c05f9fe47601ca",
-    "problemTried": 15,
-    "problemSolved": 12,
-    "totalSubmissions": 39,
-    "assignmentDetails": {
-      "assignments": {},
-      "participatedAssignments": 0
-    },
-    "dates": {
-      "10-16": 1,
-      "11-04": 4,
-      "11-06": 2,
-      "11-08": 5,
-      "11-09": 4,
-      "11-11": 1,
-      "11-13": 12,
-      "11-14": 1,
-      "11-15": 1,
-      "11-16": 4,
-      "11-17": 4
-    },
-    "hours": {
-      "1": 4,
-      "3": 1,
-      "4": 1,
-      "9": 1,
-      "10": 1,
-      "13": 1,
-      "14": 11,
-      "15": 16,
-      "16": 3
-    },
-    "ck": 7,
-    "qt": 10,
-    "th": 9.5,
-    "totalCompletionRateDelta": 0,
-    "avgCompletionRateDelta": 0,
-    "avgInverseSolvingRate": 13.016666666666671,
-    "avgScoreFinalSubmission": 8845.8,
-    "avgSubmissionsPerDay": "12.00"
-  },
-  {
     "username": "7e783577c8297bd74f8f12a2d4787f9cdfdfee02",
     "problemTried": 82,
     "problemSolved": 72,
@@ -49621,45 +48359,6 @@
     "avgInverseSolvingRate": 5.396265060240963,
     "avgScoreFinalSubmission": 9191.522,
     "avgSubmissionsPerDay": "16.57"
-  },
-  {
-    "username": "54d144dbc7891709d9bac5db5ee19a761a768c1f",
-    "problemTried": 23,
-    "problemSolved": 17,
-    "totalSubmissions": 38,
-    "assignmentDetails": {
-      "assignments": {
-        "fd8fdf743e38d0dc3e613563f3ce1ad0301235bb": {
-          "problemsSolved": 17,
-          "percentageSolved": 62.96296296296296
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "01-10": 11,
-      "01-15": 26,
-      "01-20": 1
-    },
-    "hours": {
-      "1": 1,
-      "8": 1,
-      "10": 8,
-      "11": 6,
-      "12": 8,
-      "13": 2,
-      "14": 9,
-      "17": 2,
-      "18": 1
-    },
-    "ck": 5,
-    "qt": 9.5,
-    "th": 4.5,
-    "totalCompletionRateDelta": -16.606929510155297,
-    "avgCompletionRateDelta": -16.607,
-    "avgInverseSolvingRate": 7.892941176470591,
-    "avgScoreFinalSubmission": 7430.826,
-    "avgSubmissionsPerDay": "18.50"
   },
   {
     "username": "f42621bb38f167d2de3d662cbe897f5fd1234aa3",
@@ -50878,82 +49577,6 @@
     "avgSubmissionsPerDay": "26.76"
   },
   {
-    "username": "19fb6947af793def84e3b7ab4f867bd460ad1b73",
-    "problemTried": 24,
-    "problemSolved": 24,
-    "totalSubmissions": 46,
-    "assignmentDetails": {
-      "assignments": {
-        "16e29978d00b41ae746603560176e34022252f5f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "5c1a8a51174e75ad756f967c1a5fced73fdb5466": {
-          "problemsSolved": 3,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 6,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 8
-    },
-    "dates": {
-      "10-23": 3,
-      "12-25": 7,
-      "12-26": 2,
-      "12-29": 10,
-      "01-04": 4,
-      "01-05": 4,
-      "01-06": 1,
-      "01-07": 1,
-      "01-09": 7,
-      "01-10": 7
-    },
-    "hours": {
-      "0": 3,
-      "1": 9,
-      "2": 6,
-      "3": 1,
-      "6": 1,
-      "7": 6,
-      "8": 4,
-      "9": 4,
-      "10": 2,
-      "14": 4,
-      "15": 6
-    },
-    "ck": 8.5,
-    "qt": 9,
-    "th": 8,
-    "totalCompletionRateDelta": 118.24598694277007,
-    "avgCompletionRateDelta": 14.781,
-    "avgInverseSolvingRate": 6.223913043478262,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": "7.75"
-  },
-  {
     "username": "4c0740a4fccc2e15f52d77bbaceccfc1ffe309c2",
     "problemTried": 105,
     "problemSolved": 98,
@@ -51697,35 +50320,6 @@
     "avgSubmissionsPerDay": "12.00"
   },
   {
-    "username": "39abf25961f2094474ac7c9d9d85735ecfaa10f8",
-    "problemTried": 1,
-    "problemSolved": 0,
-    "totalSubmissions": 7,
-    "assignmentDetails": {
-      "assignments": {
-        "8c0714acbfcd46672d8106a79afabc1efd0f6212": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-27": 7
-    },
-    "hours": {
-      "8": 7
-    },
-    "ck": 3,
-    "qt": 5,
-    "th": 2.5,
-    "totalCompletionRateDelta": -18.70967741935484,
-    "avgCompletionRateDelta": -18.71,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 0,
-    "avgSubmissionsPerDay": "7.00"
-  },
-  {
     "username": "92f51b59f25a16e76b18441fbe797a2fa2a5d3b5",
     "problemTried": 106,
     "problemSolved": 101,
@@ -51834,71 +50428,6 @@
     "avgInverseSolvingRate": 5.491782178217823,
     "avgScoreFinalSubmission": 9588.745,
     "avgSubmissionsPerDay": "14.76"
-  },
-  {
-    "username": "83e22c7d80399e360122a5d33f26844b8c04a6af",
-    "problemTried": 16,
-    "problemSolved": 16,
-    "totalSubmissions": 51,
-    "assignmentDetails": {
-      "assignments": {
-        "5c1a8a51174e75ad756f967c1a5fced73fdb5466": {
-          "problemsSolved": 3,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 1,
-          "percentageSolved": 50
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 6
-    },
-    "dates": {
-      "12-25": 13,
-      "12-26": 2,
-      "01-01": 7,
-      "01-02": 13,
-      "01-08": 14,
-      "01-09": 2
-    },
-    "hours": {
-      "2": 1,
-      "3": 3,
-      "6": 2,
-      "7": 12,
-      "8": 8,
-      "9": 2,
-      "10": 6,
-      "11": 2,
-      "12": 3,
-      "13": 4,
-      "14": 2,
-      "16": 6
-    },
-    "ck": 5,
-    "qt": 9,
-    "th": 6,
-    "totalCompletionRateDelta": 24.52803822482136,
-    "avgCompletionRateDelta": 4.088,
-    "avgInverseSolvingRate": 5.725000000000001,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": "11.75"
   },
   {
     "username": "ebe0702c8a0d906044fbc61cf18d3f8dc9aacef9",
@@ -52179,36 +50708,6 @@
     "avgInverseSolvingRate": 4.6793589743589745,
     "avgScoreFinalSubmission": 9001.011,
     "avgSubmissionsPerDay": "17.54"
-  },
-  {
-    "username": "10ab3b376215f6afcfc642ea66a50f92cf944717",
-    "problemTried": 1,
-    "problemSolved": 0,
-    "totalSubmissions": 2,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 2
-    },
-    "hours": {
-      "2": 1,
-      "3": 1
-    },
-    "ck": 6,
-    "qt": 10,
-    "th": 8.5,
-    "totalCompletionRateDelta": -18.75862068965517,
-    "avgCompletionRateDelta": -18.759,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 0,
-    "avgSubmissionsPerDay": 0
   },
   {
     "username": "22deb5e56e580b0b0353f10e076cad95a3b8e631",
@@ -53155,88 +51654,6 @@
     "avgSubmissionsPerDay": "15.00"
   },
   {
-    "username": "4cd7de9870e18e6ea8acbc2efb5f4fe9c051b09b",
-    "problemTried": 24,
-    "problemSolved": 12,
-    "totalSubmissions": 43,
-    "assignmentDetails": {
-      "assignments": {
-        "590cf6459bdae1e4327f25c1d1ea9c145d496054": {
-          "problemsSolved": 3,
-          "percentageSolved": 27.27272727272727
-        },
-        "f86c876f6d60b3b0c14fb0f084c705f1c4bb3dad": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "3425a39c9806086b1732f59544b648443f44baa9": {
-          "problemsSolved": 6,
-          "percentageSolved": 60
-        },
-        "06f25f8358db79e5ab8b5d52fe604d9b7efda10d": {
-          "problemsSolved": 1,
-          "percentageSolved": 50
-        },
-        "ab06959774a036bdf57b6c6cb6c1d8c633b1f8e4": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "d229e2256d9e56a5be47740fb8313d1622ab34d6": {
-          "problemsSolved": 1,
-          "percentageSolved": 10
-        },
-        "b38cc451dbd06774ab83744affd511883e3f338e": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "44cde26a7c36ee79567fd49955f91534bee0f02e": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "aa25911458daa5e08c968278330606c4f412c6b0": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "b80f3d7049ec416e2539e49e0db13af88fcb20a1": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        }
-      },
-      "participatedAssignments": 10
-    },
-    "dates": {
-      "09-22": 3,
-      "09-28": 19,
-      "10-05": 2,
-      "10-11": 4,
-      "10-26": 3,
-      "12-11": 1,
-      "12-24": 3,
-      "12-25": 2,
-      "12-27": 1,
-      "12-28": 5
-    },
-    "hours": {
-      "1": 1,
-      "3": 4,
-      "6": 5,
-      "7": 11,
-      "8": 6,
-      "9": 2,
-      "14": 2,
-      "15": 9,
-      "16": 3
-    },
-    "ck": 6.5,
-    "qt": 8,
-    "th": 5,
-    "totalCompletionRateDelta": -399.10604838201465,
-    "avgCompletionRateDelta": -39.911,
-    "avgInverseSolvingRate": 7.276666666666665,
-    "avgScoreFinalSubmission": 7298.375,
-    "avgSubmissionsPerDay": "19.00"
-  },
-  {
     "username": "f126cb73dbad037e40b322f82b6f40e92a15a595",
     "problemTried": 43,
     "problemSolved": 39,
@@ -54013,80 +52430,6 @@
     "avgSubmissionsPerDay": "25.29"
   },
   {
-    "username": "6fda7242d55963e0014a8741b5fdd1bd4c34019f",
-    "problemTried": 25,
-    "problemSolved": 24,
-    "totalSubmissions": 45,
-    "assignmentDetails": {
-      "assignments": {
-        "16e29978d00b41ae746603560176e34022252f5f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "5c1a8a51174e75ad756f967c1a5fced73fdb5466": {
-          "problemsSolved": 3,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 6,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 8
-    },
-    "dates": {
-      "10-19": 3,
-      "12-25": 12,
-      "12-28": 5,
-      "12-29": 4,
-      "01-05": 6,
-      "01-08": 9,
-      "01-09": 6
-    },
-    "hours": {
-      "1": 1,
-      "3": 5,
-      "5": 2,
-      "6": 10,
-      "7": 8,
-      "8": 4,
-      "9": 2,
-      "10": 1,
-      "12": 2,
-      "13": 3,
-      "14": 2,
-      "15": 5
-    },
-    "ck": 7.5,
-    "qt": 8,
-    "th": 9.5,
-    "totalCompletionRateDelta": 118.24598694277007,
-    "avgCompletionRateDelta": 14.781,
-    "avgInverseSolvingRate": 6.223913043478262,
-    "avgScoreFinalSubmission": 9619.48,
-    "avgSubmissionsPerDay": "8.25"
-  },
-  {
     "username": "df42fc345b50f42b32dc5f9df420978b1cda663d",
     "problemTried": 57,
     "problemSolved": 55,
@@ -54422,52 +52765,6 @@
     "avgInverseSolvingRate": 5.471428571428573,
     "avgScoreFinalSubmission": 10000,
     "avgSubmissionsPerDay": "8.50"
-  },
-  {
-    "username": "4b3052a36e3e54cb3458984b0ffe5f2808445353",
-    "problemTried": 13,
-    "problemSolved": 10,
-    "totalSubmissions": 23,
-    "assignmentDetails": {
-      "assignments": {
-        "49d4fef791afcea4da96d1316ca12eb1336dc4a7": {
-          "problemsSolved": 6,
-          "percentageSolved": 60
-        },
-        "0ced89de3d75ce8ddfe6b72e6b9cc93ce375dfe1": {
-          "problemsSolved": 4,
-          "percentageSolved": 40
-        },
-        "113e8746b4c34d3aed216a0b83422c9e46af0ef1": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 3
-    },
-    "dates": {
-      "11-16": 9,
-      "12-28": 12,
-      "12-29": 2
-    },
-    "hours": {
-      "0": 1,
-      "1": 8,
-      "2": 4,
-      "3": 3,
-      "4": 2,
-      "6": 2,
-      "7": 1,
-      "8": 2
-    },
-    "ck": 6,
-    "qt": 9,
-    "th": 3.5,
-    "totalCompletionRateDelta": -129.53283043235788,
-    "avgCompletionRateDelta": -43.178,
-    "avgInverseSolvingRate": 2.326000000000002,
-    "avgScoreFinalSubmission": 7961.538,
-    "avgSubmissionsPerDay": "10.50"
   },
   {
     "username": "e7cef9ca74dbf2dc906e3216004a1b5e6a96e241",
@@ -55658,36 +53955,6 @@
     "avgSubmissionsPerDay": "15.19"
   },
   {
-    "username": "0b4355398b9c16ac0a7f559752e83b655f5aa6c7",
-    "problemTried": 2,
-    "problemSolved": 0,
-    "totalSubmissions": 3,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 3
-    },
-    "hours": {
-      "2": 1,
-      "3": 2
-    },
-    "ck": 8.5,
-    "qt": 10,
-    "th": 9.5,
-    "totalCompletionRateDelta": -18.75862068965517,
-    "avgCompletionRateDelta": -18.759,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 3900.5,
-    "avgSubmissionsPerDay": 0
-  },
-  {
     "username": "c162ce77f4002856b569f63b1e2b58ccd6d961e2",
     "problemTried": 110,
     "problemSolved": 108,
@@ -55795,35 +54062,6 @@
     "avgInverseSolvingRate": 8.00047169811321,
     "avgScoreFinalSubmission": 9800,
     "avgSubmissionsPerDay": "17.61"
-  },
-  {
-    "username": "761459daa69061bdf66d850ebf8877f0c84e48ae",
-    "problemTried": 1,
-    "problemSolved": 0,
-    "totalSubmissions": 1,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 1
-    },
-    "hours": {
-      "2": 1
-    },
-    "ck": 3,
-    "qt": 3,
-    "th": 1.5,
-    "totalCompletionRateDelta": -18.75862068965517,
-    "avgCompletionRateDelta": -18.759,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 0,
-    "avgSubmissionsPerDay": 0
   },
   {
     "username": "10e3359db56b99eb2f621d7c875f3c26cdd01a64",
@@ -57967,84 +56205,6 @@
     "avgSubmissionsPerDay": "9.50"
   },
   {
-    "username": "08b8ccf18df77b125fb5306e9ffb55ad284e1872",
-    "problemTried": 25,
-    "problemSolved": 25,
-    "totalSubmissions": 51,
-    "assignmentDetails": {
-      "assignments": {
-        "16e29978d00b41ae746603560176e34022252f5f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "5c1a8a51174e75ad756f967c1a5fced73fdb5466": {
-          "problemsSolved": 3,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 6,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 8
-    },
-    "dates": {
-      "10-20": 1,
-      "12-22": 2,
-      "12-25": 14,
-      "12-28": 5,
-      "01-04": 3,
-      "01-05": 2,
-      "01-06": 3,
-      "01-08": 7,
-      "01-09": 14
-    },
-    "hours": {
-      "2": 1,
-      "3": 1,
-      "5": 1,
-      "6": 3,
-      "7": 7,
-      "8": 10,
-      "9": 2,
-      "10": 6,
-      "11": 1,
-      "12": 2,
-      "13": 1,
-      "14": 7,
-      "15": 6,
-      "16": 3
-    },
-    "ck": 8.5,
-    "qt": 9,
-    "th": 8,
-    "totalCompletionRateDelta": 118.24598694277007,
-    "avgCompletionRateDelta": 14.781,
-    "avgInverseSolvingRate": 6.223913043478262,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": "11.67"
-  },
-  {
     "username": "49a4785cf7286dbb18206e3847f164b1af1907ed",
     "problemTried": 62,
     "problemSolved": 62,
@@ -58334,41 +56494,6 @@
     "avgInverseSolvingRate": 5.818205128205129,
     "avgScoreFinalSubmission": 9775,
     "avgSubmissionsPerDay": "9.40"
-  },
-  {
-    "username": "2f968a678a61cc1179708dc2820405e288ca9c67",
-    "problemTried": 3,
-    "problemSolved": 1,
-    "totalSubmissions": 4,
-    "assignmentDetails": {
-      "assignments": {
-        "b0dd68f2291609f06666e60e689623dea26a0dff": {
-          "problemsSolved": 1,
-          "percentageSolved": 7.6923076923076925
-        },
-        "11f524bab7ea61f9b2dd8e9ed2b1c7219ddc6ad3": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 2
-    },
-    "dates": {
-      "09-18": 2,
-      "11-13": 2
-    },
-    "hours": {
-      "8": 2,
-      "10": 2
-    },
-    "ck": 8,
-    "qt": 6,
-    "th": 2,
-    "totalCompletionRateDelta": -137.6202735736204,
-    "avgCompletionRateDelta": -68.81,
-    "avgInverseSolvingRate": 1.4099999999999966,
-    "avgScoreFinalSubmission": 5404,
-    "avgSubmissionsPerDay": 0
   },
   {
     "username": "180a4c5f90b6d7bd4993c51385fb00b4d32d2834",
@@ -60076,58 +58201,6 @@
     "avgInverseSolvingRate": 5.305352112676059,
     "avgScoreFinalSubmission": 9300.143,
     "avgSubmissionsPerDay": "13.44"
-  },
-  {
-    "username": "132d544dce1633485350dd582ed7f13fad5da3f4",
-    "problemTried": 12,
-    "problemSolved": 11,
-    "totalSubmissions": 19,
-    "assignmentDetails": {
-      "assignments": {
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 1,
-          "percentageSolved": 25
-        }
-      },
-      "participatedAssignments": 5
-    },
-    "dates": {
-      "01-03": 4,
-      "01-07": 13,
-      "01-08": 2
-    },
-    "hours": {
-      "5": 4,
-      "6": 2,
-      "7": 5,
-      "8": 2,
-      "14": 4,
-      "15": 2
-    },
-    "ck": 3,
-    "qt": 8,
-    "th": 4.5,
-    "totalCompletionRateDelta": -9.043390346607197,
-    "avgCompletionRateDelta": -1.809,
-    "avgInverseSolvingRate": 7.472727272727274,
-    "avgScoreFinalSubmission": 9166.667,
-    "avgSubmissionsPerDay": "13.00"
   },
   {
     "username": "8aea6c59a11267f4143312770b4c84a2be56f353",
@@ -62214,36 +60287,6 @@
     "avgSubmissionsPerDay": "14.13"
   },
   {
-    "username": "1db86260a9c5f649ae36ccd97c36920df2d51d20",
-    "problemTried": 2,
-    "problemSolved": 0,
-    "totalSubmissions": 9,
-    "assignmentDetails": {
-      "assignments": {
-        "2c36c78a351f1103182430948811e7255660b8c6": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 9
-    },
-    "hours": {
-      "8": 3,
-      "9": 6
-    },
-    "ck": 8,
-    "qt": 10,
-    "th": 9.5,
-    "totalCompletionRateDelta": -9.6,
-    "avgCompletionRateDelta": -9.6,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 285.5,
-    "avgSubmissionsPerDay": "9.00"
-  },
-  {
     "username": "6a24473bc7b7d3e0a711d9195d9f792a24352436",
     "problemTried": 69,
     "problemSolved": 66,
@@ -62332,38 +60375,6 @@
     "avgInverseSolvingRate": 8.286212121212118,
     "avgScoreFinalSubmission": 9691.42,
     "avgSubmissionsPerDay": "21.70"
-  },
-  {
-    "username": "6dc988c0cbd4f0ba3d2217d8b84911b6a8d81c47",
-    "problemTried": 2,
-    "problemSolved": 2,
-    "totalSubmissions": 12,
-    "assignmentDetails": {
-      "assignments": {
-        "1121f81968455bbed9ca2bc969ee2824ea692bb2": {
-          "problemsSolved": 2,
-          "percentageSolved": 40
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "01-11": 12
-    },
-    "hours": {
-      "14": 4,
-      "15": 3,
-      "16": 4,
-      "17": 1
-    },
-    "ck": 6,
-    "qt": 10,
-    "th": 9,
-    "totalCompletionRateDelta": -18.75,
-    "avgCompletionRateDelta": -18.75,
-    "avgInverseSolvingRate": 14.725000000000001,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": "12.00"
   },
   {
     "username": "c32840e4bedac9715b49ce3f04b3dedb98007cfe",
@@ -62640,54 +60651,6 @@
     "avgInverseSolvingRate": 5.850260869565217,
     "avgScoreFinalSubmission": 9806.555,
     "avgSubmissionsPerDay": "30.44"
-  },
-  {
-    "username": "8142efda300bc5bd5a3368d957f2904fb41a6062",
-    "problemTried": 19,
-    "problemSolved": 14,
-    "totalSubmissions": 31,
-    "assignmentDetails": {
-      "assignments": {
-        "27bc9e3b77ffff6bede5f386099bc7bde1ae9e5d": {
-          "problemsSolved": 9,
-          "percentageSolved": 90
-        },
-        "1081f740ceafd760b808b9e36096ef9208c16639": {
-          "problemsSolved": 4,
-          "percentageSolved": 40
-        },
-        "d58cecd79704e331e786d754d7e1d8955ad63568": {
-          "problemsSolved": 1,
-          "percentageSolved": 8.333333333333332
-        }
-      },
-      "participatedAssignments": 3
-    },
-    "dates": {
-      "11-03": 3,
-      "11-19": 15,
-      "11-22": 1,
-      "01-09": 12
-    },
-    "hours": {
-      "3": 3,
-      "4": 5,
-      "5": 4,
-      "6": 9,
-      "7": 5,
-      "12": 2,
-      "13": 1,
-      "14": 1,
-      "15": 1
-    },
-    "ck": 7.5,
-    "qt": 10,
-    "th": 8.5,
-    "totalCompletionRateDelta": -10.795454545454543,
-    "avgCompletionRateDelta": -3.598,
-    "avgInverseSolvingRate": 2.587142857142858,
-    "avgScoreFinalSubmission": 9105.263,
-    "avgSubmissionsPerDay": "13.50"
   },
   {
     "username": "a50e88cb6830931dd1271dfc49b3497d63bd436b",
@@ -64011,35 +61974,6 @@
     "avgSubmissionsPerDay": "21.40"
   },
   {
-    "username": "70442b24f09aaf25882d54ff0ec72738c00a41df",
-    "problemTried": 2,
-    "problemSolved": 1,
-    "totalSubmissions": 2,
-    "assignmentDetails": {
-      "assignments": {
-        "2c36c78a351f1103182430948811e7255660b8c6": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 2
-    },
-    "hours": {
-      "8": 2
-    },
-    "ck": 8.5,
-    "qt": 10,
-    "th": 10,
-    "totalCompletionRateDelta": 10.4,
-    "avgCompletionRateDelta": 10.4,
-    "avgInverseSolvingRate": 28.28,
-    "avgScoreFinalSubmission": 5625,
-    "avgSubmissionsPerDay": 0
-  },
-  {
     "username": "286ccf0d6187c170c299fa64d15a3705e7900a33",
     "problemTried": 77,
     "problemSolved": 72,
@@ -64637,91 +62571,6 @@
     "avgInverseSolvingRate": 4.834833333333334,
     "avgScoreFinalSubmission": 9279.94,
     "avgSubmissionsPerDay": "14.00"
-  },
-  {
-    "username": "0fbef055915162cb6d6501558499544d6dedb799",
-    "problemTried": 34,
-    "problemSolved": 34,
-    "totalSubmissions": 52,
-    "assignmentDetails": {
-      "assignments": {
-        "16e29978d00b41ae746603560176e34022252f5f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "5c1a8a51174e75ad756f967c1a5fced73fdb5466": {
-          "problemsSolved": 3,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 6,
-          "percentageSolved": 100
-        },
-        "606f44c909551899599ae5f6dce34377c694b237": {
-          "problemsSolved": 10,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 9
-    },
-    "dates": {
-      "10-23": 4,
-      "12-25": 7,
-      "12-31": 6,
-      "01-05": 3,
-      "01-06": 5,
-      "01-08": 5,
-      "01-09": 8,
-      "01-10": 1,
-      "05-08": 13
-    },
-    "hours": {
-      "1": 1,
-      "2": 8,
-      "3": 9,
-      "4": 1,
-      "5": 3,
-      "6": 1,
-      "7": 2,
-      "8": 6,
-      "9": 2,
-      "10": 2,
-      "11": 2,
-      "12": 3,
-      "13": 2,
-      "14": 1,
-      "15": 5,
-      "16": 1,
-      "17": 3
-    },
-    "ck": 7.5,
-    "qt": 9,
-    "th": 7.5,
-    "totalCompletionRateDelta": 129.24598694277006,
-    "avgCompletionRateDelta": 14.361,
-    "avgInverseSolvingRate": 6.223913043478262,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": "8.50"
   },
   {
     "username": "a244f431e70a9d4c780ac6914b564d98c04ac7ff",
@@ -66289,78 +64138,6 @@
     "avgSubmissionsPerDay": "16.00"
   },
   {
-    "username": "4d5d641551d82c1f733620b5d8ea4359ba376593",
-    "problemTried": 22,
-    "problemSolved": 21,
-    "totalSubmissions": 44,
-    "assignmentDetails": {
-      "assignments": {
-        "7638c5a850454dd8b3e4d31c9a781b1eeaca039f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 6,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 7
-    },
-    "dates": {
-      "10-20": 5,
-      "12-11": 1,
-      "12-30": 8,
-      "01-02": 3,
-      "01-06": 10,
-      "01-08": 7,
-      "01-09": 10
-    },
-    "hours": {
-      "3": 1,
-      "4": 2,
-      "5": 5,
-      "6": 4,
-      "7": 5,
-      "8": 2,
-      "9": 1,
-      "11": 3,
-      "12": 7,
-      "13": 1,
-      "14": 1,
-      "15": 8,
-      "16": 2,
-      "17": 2
-    },
-    "ck": 7,
-    "qt": 9,
-    "th": 7.5,
-    "totalCompletionRateDelta": 109.67455837134152,
-    "avgCompletionRateDelta": 15.668,
-    "avgInverseSolvingRate": 6.702000000000001,
-    "avgScoreFinalSubmission": 9545.455,
-    "avgSubmissionsPerDay": "8.75"
-  },
-  {
     "username": "73c938c3db512a2d6b136fa924a8ed2e608b7790",
     "problemTried": 101,
     "problemSolved": 92,
@@ -67094,61 +64871,6 @@
     "avgInverseSolvingRate": 3.9445945945945957,
     "avgScoreFinalSubmission": 10000,
     "avgSubmissionsPerDay": "11.00"
-  },
-  {
-    "username": "4ff3fa101f0b4c9777b996d2e1b338a529eedb6b",
-    "problemTried": 13,
-    "problemSolved": 8,
-    "totalSubmissions": 23,
-    "assignmentDetails": {
-      "assignments": {
-        "16e29978d00b41ae746603560176e34022252f5f": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "5c1a8a51174e75ad756f967c1a5fced73fdb5466": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 4,
-          "percentageSolved": 66.66666666666666
-        }
-      },
-      "participatedAssignments": 5
-    },
-    "dates": {
-      "10-18": 1,
-      "12-25": 1,
-      "12-26": 1,
-      "12-31": 1,
-      "01-09": 19
-    },
-    "hours": {
-      "2": 1,
-      "3": 1,
-      "4": 4,
-      "5": 6,
-      "6": 3,
-      "7": 1,
-      "11": 7
-    },
-    "ck": 4,
-    "qt": 8,
-    "th": 6,
-    "totalCompletionRateDelta": -257.90742940461183,
-    "avgCompletionRateDelta": -51.581,
-    "avgInverseSolvingRate": 2.807500000000001,
-    "avgScoreFinalSubmission": 6153.846,
-    "avgSubmissionsPerDay": "19.00"
   },
   {
     "username": "ea55b410ce0e38664c6597e4bfa09fce84399461",
@@ -69224,35 +66946,6 @@
     "avgSubmissionsPerDay": "15.08"
   },
   {
-    "username": "63b684c9976d06a32dbcdc4685592cd713f9121e",
-    "problemTried": 1,
-    "problemSolved": 0,
-    "totalSubmissions": 1,
-    "assignmentDetails": {
-      "assignments": {
-        "1121f81968455bbed9ca2bc969ee2824ea692bb2": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "01-10": 1
-    },
-    "hours": {
-      "18": 1
-    },
-    "ck": 7.5,
-    "qt": 10,
-    "th": 9,
-    "totalCompletionRateDelta": -58.75,
-    "avgCompletionRateDelta": -58.75,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 6857,
-    "avgSubmissionsPerDay": 0
-  },
-  {
     "username": "b75c5320a2ce606e7c46d1f82723e1e461f37a68",
     "problemTried": 93,
     "problemSolved": 92,
@@ -70487,43 +68180,6 @@
     "avgSubmissionsPerDay": "18.70"
   },
   {
-    "username": "40a41a33c4e0168e2716a09cecc11cc3abb5dbe0",
-    "problemTried": 2,
-    "problemSolved": 1,
-    "totalSubmissions": 13,
-    "assignmentDetails": {
-      "assignments": {
-        "2c36c78a351f1103182430948811e7255660b8c6": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "1121f81968455bbed9ca2bc969ee2824ea692bb2": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        }
-      },
-      "participatedAssignments": 2
-    },
-    "dates": {
-      "09-05": 4,
-      "01-08": 9
-    },
-    "hours": {
-      "7": 4,
-      "9": 4,
-      "12": 2,
-      "13": 3
-    },
-    "ck": 6.5,
-    "qt": 10,
-    "th": 5,
-    "totalCompletionRateDelta": -48.35,
-    "avgCompletionRateDelta": -24.175,
-    "avgInverseSolvingRate": 7.159999999999997,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": "9.00"
-  },
-  {
     "username": "5c8d3dd9026554402b67ab061544d47532898f6f",
     "problemTried": 105,
     "problemSolved": 97,
@@ -70648,65 +68304,6 @@
     "avgInverseSolvingRate": 5.690515463917526,
     "avgScoreFinalSubmission": 9360.086,
     "avgSubmissionsPerDay": "14.19"
-  },
-  {
-    "username": "1bb7bc7fa80594c77e224e8f9632c765f26838e5",
-    "problemTried": 28,
-    "problemSolved": 27,
-    "totalSubmissions": 44,
-    "assignmentDetails": {
-      "assignments": {
-        "b0dd68f2291609f06666e60e689623dea26a0dff": {
-          "problemsSolved": 13,
-          "percentageSolved": 100
-        },
-        "816cd7202ed37841f9f5740fad56555a434a0ca6": {
-          "problemsSolved": 4,
-          "percentageSolved": 80
-        },
-        "a24e2a245074bd4a09a7921b84bb7360b7da7b47": {
-          "problemsSolved": 8,
-          "percentageSolved": 80
-        },
-        "e6049ec614d5055e597066cd60c0da4eabd80f1b": {
-          "problemsSolved": 2,
-          "percentageSolved": 66.66666666666666
-        }
-      },
-      "participatedAssignments": 4
-    },
-    "dates": {
-      "09-18": 19,
-      "09-19": 2,
-      "09-20": 2,
-      "09-24": 1,
-      "09-25": 5,
-      "09-27": 1,
-      "10-03": 8,
-      "10-05": 2,
-      "10-15": 2,
-      "10-17": 2
-    },
-    "hours": {
-      "0": 1,
-      "1": 2,
-      "2": 4,
-      "6": 3,
-      "7": 8,
-      "8": 7,
-      "14": 3,
-      "15": 6,
-      "16": 5,
-      "17": 5
-    },
-    "ck": 9,
-    "qt": 8,
-    "th": 8,
-    "totalCompletionRateDelta": 27.32765743824919,
-    "avgCompletionRateDelta": 6.832,
-    "avgInverseSolvingRate": 9.914814814814815,
-    "avgScoreFinalSubmission": 9975,
-    "avgSubmissionsPerDay": "13.50"
   },
   {
     "username": "655f5a83c42ccc83c7c0ac2caa5cd8237e685751",
@@ -71684,41 +69281,6 @@
     "avgSubmissionsPerDay": "10.81"
   },
   {
-    "username": "82ab2a968469bfa6a3dd02ca619f80a440ff3b98",
-    "problemTried": 7,
-    "problemSolved": 6,
-    "totalSubmissions": 13,
-    "assignmentDetails": {
-      "assignments": {
-        "1121f81968455bbed9ca2bc969ee2824ea692bb2": {
-          "problemsSolved": 5,
-          "percentageSolved": 100
-        },
-        "d58cecd79704e331e786d754d7e1d8955ad63568": {
-          "problemsSolved": 1,
-          "percentageSolved": 8.333333333333332
-        }
-      },
-      "participatedAssignments": 2
-    },
-    "dates": {
-      "01-10": 13
-    },
-    "hours": {
-      "6": 2,
-      "7": 5,
-      "11": 6
-    },
-    "ck": 4.5,
-    "qt": 10,
-    "th": 6.5,
-    "totalCompletionRateDelta": 26.666666666666668,
-    "avgCompletionRateDelta": 13.333,
-    "avgInverseSolvingRate": 15.678333333333333,
-    "avgScoreFinalSubmission": 9285.714,
-    "avgSubmissionsPerDay": "13.00"
-  },
-  {
     "username": "b2c520e7e4ea03898e0b8204fea068149d5535c8",
     "problemTried": 110,
     "problemSolved": 103,
@@ -72668,62 +70230,6 @@
     "avgInverseSolvingRate": 5.084999999999999,
     "avgScoreFinalSubmission": 9859.155,
     "avgSubmissionsPerDay": "18.36"
-  },
-  {
-    "username": "64d07438f7fbb0b4c2fece774289f09dbdf9de5f",
-    "problemTried": 11,
-    "problemSolved": 11,
-    "totalSubmissions": 35,
-    "assignmentDetails": {
-      "assignments": {
-        "7638c5a850454dd8b3e4d31c9a781b1eeaca039f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 5
-    },
-    "dates": {
-      "10-25": 8,
-      "10-26": 1,
-      "01-04": 15,
-      "01-08": 11
-    },
-    "hours": {
-      "2": 6,
-      "3": 9,
-      "5": 3,
-      "6": 5,
-      "7": 1,
-      "9": 1,
-      "13": 2,
-      "14": 3,
-      "16": 5
-    },
-    "ck": 6.5,
-    "qt": 9,
-    "th": 7.5,
-    "totalCompletionRateDelta": 73.0659846533928,
-    "avgCompletionRateDelta": 14.613,
-    "avgInverseSolvingRate": 8.051000000000002,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": "11.33"
   },
   {
     "username": "b7047722486e995e27292b5ab1945d72ab5a3708",
@@ -73758,65 +71264,6 @@
     "avgSubmissionsPerDay": "9.64"
   },
   {
-    "username": "110da1d7ba2be3ffa13d62c7ed8b917e5dcebece",
-    "problemTried": 36,
-    "problemSolved": 35,
-    "totalSubmissions": 62,
-    "assignmentDetails": {
-      "assignments": {
-        "58b7fd023d37dccdcc576c17db6fa79b81c1c803": {
-          "problemsSolved": 6,
-          "percentageSolved": 60
-        },
-        "d58cecd79704e331e786d754d7e1d8955ad63568": {
-          "problemsSolved": 8,
-          "percentageSolved": 66.66666666666666
-        },
-        "1081f740ceafd760b808b9e36096ef9208c16639": {
-          "problemsSolved": 10,
-          "percentageSolved": 100
-        },
-        "27bc9e3b77ffff6bede5f386099bc7bde1ae9e5d": {
-          "problemsSolved": 6,
-          "percentageSolved": 60
-        },
-        "1121f81968455bbed9ca2bc969ee2824ea692bb2": {
-          "problemsSolved": 5,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 5
-    },
-    "dates": {
-      "01-04": 19,
-      "01-05": 8,
-      "01-06": 5,
-      "01-07": 17,
-      "01-08": 6,
-      "01-10": 7
-    },
-    "hours": {
-      "2": 8,
-      "3": 6,
-      "4": 3,
-      "5": 16,
-      "6": 6,
-      "7": 4,
-      "8": 3,
-      "12": 3,
-      "13": 6,
-      "14": 7
-    },
-    "ck": 8.5,
-    "qt": 10,
-    "th": 8,
-    "totalCompletionRateDelta": 129.78787878787878,
-    "avgCompletionRateDelta": 25.958,
-    "avgInverseSolvingRate": 8.807714285714287,
-    "avgScoreFinalSubmission": 9821.417,
-    "avgSubmissionsPerDay": "11.40"
-  },
-  {
     "username": "1f641156e4298943167e0e1ad7a63696ff3bc17d",
     "problemTried": 53,
     "problemSolved": 47,
@@ -74438,87 +71885,6 @@
     "avgInverseSolvingRate": 6.464999999999999,
     "avgScoreFinalSubmission": 9841.27,
     "avgSubmissionsPerDay": "15.83"
-  },
-  {
-    "username": "56925a416739348e2099293f2c91fd7c6c186d99",
-    "problemTried": 58,
-    "problemSolved": 49,
-    "totalSubmissions": 89,
-    "assignmentDetails": {
-      "assignments": {
-        "bbf66a6310b6a9385eb8a0d7942f07601da2f2ad": {
-          "problemsSolved": 8,
-          "percentageSolved": 80
-        },
-        "99a3c802327aa4f683688245e91d4514b3bbc3a9": {
-          "problemsSolved": 10,
-          "percentageSolved": 100
-        },
-        "550302840542dad53b1a886ec051db2295094de6": {
-          "problemsSolved": 3,
-          "percentageSolved": 30
-        },
-        "27bc9e3b77ffff6bede5f386099bc7bde1ae9e5d": {
-          "problemsSolved": 8,
-          "percentageSolved": 80
-        },
-        "74f9be8fa844725f326f2d8c4c1d883d049cb6ae": {
-          "problemsSolved": 6,
-          "percentageSolved": 60
-        },
-        "1081f740ceafd760b808b9e36096ef9208c16639": {
-          "problemsSolved": 10,
-          "percentageSolved": 100
-        },
-        "d58cecd79704e331e786d754d7e1d8955ad63568": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "58b7fd023d37dccdcc576c17db6fa79b81c1c803": {
-          "problemsSolved": 2,
-          "percentageSolved": 20
-        },
-        "1121f81968455bbed9ca2bc969ee2824ea692bb2": {
-          "problemsSolved": 2,
-          "percentageSolved": 40
-        }
-      },
-      "participatedAssignments": 9
-    },
-    "dates": {
-      "10-18": 6,
-      "11-05": 18,
-      "11-22": 10,
-      "12-30": 33,
-      "12-31": 7,
-      "01-01": 9,
-      "01-08": 2,
-      "01-09": 3,
-      "01-11": 1
-    },
-    "hours": {
-      "2": 3,
-      "3": 10,
-      "4": 11,
-      "5": 13,
-      "6": 2,
-      "7": 5,
-      "8": 15,
-      "9": 8,
-      "12": 1,
-      "13": 5,
-      "14": 3,
-      "15": 4,
-      "16": 9
-    },
-    "ck": 8,
-    "qt": 10,
-    "th": 10,
-    "totalCompletionRateDelta": 35.61195667078019,
-    "avgCompletionRateDelta": 3.957,
-    "avgInverseSolvingRate": 4.890204081632654,
-    "avgScoreFinalSubmission": 8948.241,
-    "avgSubmissionsPerDay": "13.83"
   },
   {
     "username": "f18c98fe93f825e2c01296bad47dc072ff70eef1",
@@ -75510,86 +72876,6 @@
     "avgInverseSolvingRate": 5.770824742268042,
     "avgScoreFinalSubmission": 9457.691,
     "avgSubmissionsPerDay": "23.58"
-  },
-  {
-    "username": "1de22c51fffa76f33c3a7698a3f7a9e6ab6be9ac",
-    "problemTried": 24,
-    "problemSolved": 22,
-    "totalSubmissions": 46,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "7638c5a850454dd8b3e4d31c9a781b1eeaca039f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 6,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 8
-    },
-    "dates": {
-      "09-05": 7,
-      "10-12": 7,
-      "10-23": 1,
-      "12-28": 2,
-      "12-30": 7,
-      "01-04": 3,
-      "01-05": 7,
-      "01-08": 5,
-      "01-09": 1,
-      "01-10": 5,
-      "03-12": 1
-    },
-    "hours": {
-      "1": 1,
-      "2": 13,
-      "3": 2,
-      "5": 1,
-      "6": 1,
-      "7": 8,
-      "9": 2,
-      "10": 2,
-      "11": 1,
-      "12": 4,
-      "14": 1,
-      "15": 6,
-      "16": 3,
-      "17": 1
-    },
-    "ck": 7.5,
-    "qt": 9,
-    "th": 9,
-    "totalCompletionRateDelta": 90.91593768168634,
-    "avgCompletionRateDelta": 11.364,
-    "avgInverseSolvingRate": 7.010952380952385,
-    "avgScoreFinalSubmission": 9494,
-    "avgSubmissionsPerDay": "7.00"
   },
   {
     "username": "cc431fffd568a0d46d302233b4d71bd216fa94f3",
@@ -77249,36 +74535,6 @@
     "avgSubmissionsPerDay": "13.30"
   },
   {
-    "username": "74ca49651c685988e265884821dcfe0961a1ebdf",
-    "problemTried": 1,
-    "problemSolved": 0,
-    "totalSubmissions": 3,
-    "assignmentDetails": {
-      "assignments": {
-        "2c36c78a351f1103182430948811e7255660b8c6": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 3
-    },
-    "hours": {
-      "8": 2,
-      "9": 1
-    },
-    "ck": 7,
-    "qt": 7,
-    "th": 8,
-    "totalCompletionRateDelta": -9.6,
-    "avgCompletionRateDelta": -9.6,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 0,
-    "avgSubmissionsPerDay": 0
-  },
-  {
     "username": "23e8b9776a349c810234bb174f7326d14c89bce5",
     "problemTried": 10,
     "problemSolved": 9,
@@ -77557,70 +74813,6 @@
     "avgInverseSolvingRate": 5.472033898305083,
     "avgScoreFinalSubmission": 10000,
     "avgSubmissionsPerDay": "20.17"
-  },
-  {
-    "username": "44557bbbb5013bd2d980dff1f4b5f6b47cb1363d",
-    "problemTried": 26,
-    "problemSolved": 26,
-    "totalSubmissions": 53,
-    "assignmentDetails": {
-      "assignments": {
-        "16e29978d00b41ae746603560176e34022252f5f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "5c1a8a51174e75ad756f967c1a5fced73fdb5466": {
-          "problemsSolved": 3,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 4,
-          "percentageSolved": 66.66666666666666
-        },
-        "606f44c909551899599ae5f6dce34377c694b237": {
-          "problemsSolved": 10,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 6
-    },
-    "dates": {
-      "10-19": 2,
-      "12-27": 2,
-      "12-28": 2,
-      "12-30": 1,
-      "01-01": 1,
-      "01-02": 1,
-      "01-03": 5,
-      "01-08": 5,
-      "01-09": 8,
-      "05-08": 26
-    },
-    "hours": {
-      "2": 16,
-      "3": 14,
-      "4": 2,
-      "8": 6,
-      "9": 9,
-      "13": 3,
-      "14": 3
-    },
-    "ck": 6,
-    "qt": 9,
-    "th": 6,
-    "totalCompletionRateDelta": 53.092570595388196,
-    "avgCompletionRateDelta": 8.849,
-    "avgInverseSolvingRate": 3.2326666666666672,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": "17.00"
   },
   {
     "username": "1e4b0ce4b171b3e33195524f6a6425a1b8f98597",
@@ -77993,67 +75185,6 @@
     "avgInverseSolvingRate": 3.554464285714286,
     "avgScoreFinalSubmission": 9163.215,
     "avgSubmissionsPerDay": "14.42"
-  },
-  {
-    "username": "448e09eb2299c7bc3435e9a680e5e7e81b6d732f",
-    "problemTried": 18,
-    "problemSolved": 14,
-    "totalSubmissions": 37,
-    "assignmentDetails": {
-      "assignments": {
-        "5c1a8a51174e75ad756f967c1a5fced73fdb5466": {
-          "problemsSolved": 3,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 1,
-          "percentageSolved": 25
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 4,
-          "percentageSolved": 66.66666666666666
-        }
-      },
-      "participatedAssignments": 5
-    },
-    "dates": {
-      "12-25": 5,
-      "12-30": 5,
-      "12-31": 1,
-      "01-03": 2,
-      "01-07": 2,
-      "01-08": 9,
-      "01-09": 8,
-      "01-25": 1,
-      "02-02": 4
-    },
-    "hours": {
-      "1": 1,
-      "3": 1,
-      "4": 1,
-      "5": 4,
-      "6": 2,
-      "7": 12,
-      "8": 7,
-      "9": 7,
-      "10": 2
-    },
-    "ck": 4.5,
-    "qt": 8,
-    "th": 6,
-    "totalCompletionRateDelta": -35.66605009426698,
-    "avgCompletionRateDelta": -7.133,
-    "avgInverseSolvingRate": 5.232857142857144,
-    "avgScoreFinalSubmission": 7444.444,
-    "avgSubmissionsPerDay": "8.50"
   },
   {
     "username": "47aceb292c673f98f059ec36af314cb1c8894405",
@@ -79187,30 +76318,6 @@
     "avgSubmissionsPerDay": "11.68"
   },
   {
-    "username": "673ca800a97efc5b14397e331006ebe67258bf1d",
-    "problemTried": 1,
-    "problemSolved": 0,
-    "totalSubmissions": 3,
-    "assignmentDetails": {
-      "assignments": {},
-      "participatedAssignments": 0
-    },
-    "dates": {
-      "01-06": 3
-    },
-    "hours": {
-      "1": 3
-    },
-    "ck": 7,
-    "qt": 10,
-    "th": 9,
-    "totalCompletionRateDelta": 0,
-    "avgCompletionRateDelta": 0,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 4074,
-    "avgSubmissionsPerDay": 0
-  },
-  {
     "username": "73af3f8e00b50a4444bbbb431c83075dfde4cbd6",
     "problemTried": 7,
     "problemSolved": 6,
@@ -79555,36 +76662,6 @@
     "avgInverseSolvingRate": 4.210930232558139,
     "avgScoreFinalSubmission": 9320.824,
     "avgSubmissionsPerDay": "15.17"
-  },
-  {
-    "username": "2cddc42a00117daf32501cba07d6dc181de7ed24",
-    "problemTried": 2,
-    "problemSolved": 1,
-    "totalSubmissions": 8,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 8
-    },
-    "hours": {
-      "2": 7,
-      "3": 1
-    },
-    "ck": 8,
-    "qt": 10,
-    "th": 10,
-    "totalCompletionRateDelta": 1.2413793103448292,
-    "avgCompletionRateDelta": 1.241,
-    "avgInverseSolvingRate": 5.599999999999994,
-    "avgScoreFinalSubmission": 5625,
-    "avgSubmissionsPerDay": "8.00"
   },
   {
     "username": "057b868ab03f5596f4a8c2e579c401f2fe9a2dfe",
@@ -80062,35 +77139,6 @@
     "avgInverseSolvingRate": 4.746470588235294,
     "avgScoreFinalSubmission": 9045.25,
     "avgSubmissionsPerDay": "12.67"
-  },
-  {
-    "username": "495a7aa30e85503d9a2027af83cd32af0eb7b030",
-    "problemTried": 2,
-    "problemSolved": 2,
-    "totalSubmissions": 2,
-    "assignmentDetails": {
-      "assignments": {
-        "1121f81968455bbed9ca2bc969ee2824ea692bb2": {
-          "problemsSolved": 2,
-          "percentageSolved": 40
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "01-12": 2
-    },
-    "hours": {
-      "4": 2
-    },
-    "ck": 6.5,
-    "qt": 10,
-    "th": 4.5,
-    "totalCompletionRateDelta": -18.75,
-    "avgCompletionRateDelta": -18.75,
-    "avgInverseSolvingRate": 13.344999999999999,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": 0
   },
   {
     "username": "4c67cde88abaa3210919405fdb1b202dec23b08c",
@@ -81033,76 +78081,6 @@
     "avgSubmissionsPerDay": "10.79"
   },
   {
-    "username": "0a99205e11c0c6d86b348a926f693d6529e0210f",
-    "problemTried": 19,
-    "problemSolved": 16,
-    "totalSubmissions": 76,
-    "assignmentDetails": {
-      "assignments": {
-        "7638c5a850454dd8b3e4d31c9a781b1eeaca039f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 1,
-          "percentageSolved": 50
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 2,
-          "percentageSolved": 33.33333333333333
-        }
-      },
-      "participatedAssignments": 7
-    },
-    "dates": {
-      "10-22": 5,
-      "10-23": 3,
-      "11-17": 3,
-      "01-03": 8,
-      "01-04": 1,
-      "01-08": 32,
-      "01-09": 23,
-      "01-10": 1
-    },
-    "hours": {
-      "2": 9,
-      "5": 1,
-      "6": 5,
-      "8": 5,
-      "9": 5,
-      "10": 10,
-      "11": 9,
-      "13": 4,
-      "15": 13,
-      "16": 14,
-      "17": 1
-    },
-    "ck": 8,
-    "qt": 9,
-    "th": 8,
-    "totalCompletionRateDelta": -6.992108295325153,
-    "avgCompletionRateDelta": -0.999,
-    "avgInverseSolvingRate": 5.289333333333335,
-    "avgScoreFinalSubmission": 8894.737,
-    "avgSubmissionsPerDay": "21.00"
-  },
-  {
     "username": "573b114e6e803fdee6f8c4dec2edd8fd37bbecc0",
     "problemTried": 45,
     "problemSolved": 44,
@@ -81940,70 +78918,6 @@
     "avgSubmissionsPerDay": "17.60"
   },
   {
-    "username": "0c9cad573ea42e5a8d9058b834cbc9255128d54b",
-    "problemTried": 26,
-    "problemSolved": 26,
-    "totalSubmissions": 48,
-    "assignmentDetails": {
-      "assignments": {
-        "16e29978d00b41ae746603560176e34022252f5f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "5c1a8a51174e75ad756f967c1a5fced73fdb5466": {
-          "problemsSolved": 3,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 3,
-          "percentageSolved": 75
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 5,
-          "percentageSolved": 83.33333333333334
-        },
-        "606f44c909551899599ae5f6dce34377c694b237": {
-          "problemsSolved": 10,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 6
-    },
-    "dates": {
-      "10-16": 1,
-      "12-25": 14,
-      "12-29": 3,
-      "01-03": 4,
-      "01-08": 7,
-      "01-09": 6,
-      "05-08": 13
-    },
-    "hours": {
-      "1": 1,
-      "2": 9,
-      "3": 9,
-      "6": 2,
-      "7": 8,
-      "8": 8,
-      "9": 6,
-      "10": 2,
-      "12": 1,
-      "13": 2
-    },
-    "ck": 6,
-    "qt": 10,
-    "th": 9.5,
-    "totalCompletionRateDelta": 44.75923726205488,
-    "avgCompletionRateDelta": 7.46,
-    "avgInverseSolvingRate": 5.070000000000001,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": "10.00"
-  },
-  {
     "username": "cfe62afe7795494a49cfaa46bdf17c38a3c0d284",
     "problemTried": 100,
     "problemSolved": 95,
@@ -82203,35 +79117,6 @@
     "avgInverseSolvingRate": 5.575932203389831,
     "avgScoreFinalSubmission": 10000,
     "avgSubmissionsPerDay": "21.67"
-  },
-  {
-    "username": "4644e181d653c04f17f76eed400fdf52a43b2237",
-    "problemTried": 1,
-    "problemSolved": 0,
-    "totalSubmissions": 1,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 1
-    },
-    "hours": {
-      "2": 1
-    },
-    "ck": 7.5,
-    "qt": 10,
-    "th": 8,
-    "totalCompletionRateDelta": -18.75862068965517,
-    "avgCompletionRateDelta": -18.759,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 0,
-    "avgSubmissionsPerDay": 0
   },
   {
     "username": "a1b60c404f7df8f6f2695982048cac298567b821",
@@ -84000,36 +80885,6 @@
     "avgInverseSolvingRate": 7.79301886792453,
     "avgScoreFinalSubmission": 9430.328,
     "avgSubmissionsPerDay": "14.14"
-  },
-  {
-    "username": "5612b36a1b2a4d596254bc506f503c7c94f82950",
-    "problemTried": 2,
-    "problemSolved": 0,
-    "totalSubmissions": 3,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 3
-    },
-    "hours": {
-      "2": 1,
-      "3": 2
-    },
-    "ck": 8,
-    "qt": 10,
-    "th": 5.5,
-    "totalCompletionRateDelta": -18.75862068965517,
-    "avgCompletionRateDelta": -18.759,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 0,
-    "avgSubmissionsPerDay": 0
   },
   {
     "username": "6988cfcd0c8de2ee3ceb97a74aec90558ff0e26a",
@@ -87384,73 +84239,6 @@
     "avgSubmissionsPerDay": "10.00"
   },
   {
-    "username": "041dc9a457bc7a9f1dcb5b215aaa78a6868483f5",
-    "problemTried": 21,
-    "problemSolved": 21,
-    "totalSubmissions": 35,
-    "assignmentDetails": {
-      "assignments": {
-        "7638c5a850454dd8b3e4d31c9a781b1eeaca039f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 6,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 7
-    },
-    "dates": {
-      "10-26": 1,
-      "01-01": 5,
-      "01-06": 15,
-      "01-07": 2,
-      "01-08": 4,
-      "01-09": 8
-    },
-    "hours": {
-      "5": 1,
-      "6": 5,
-      "7": 6,
-      "8": 8,
-      "9": 5,
-      "10": 3,
-      "11": 2,
-      "12": 3,
-      "14": 1,
-      "15": 1
-    },
-    "ck": 8,
-    "qt": 9,
-    "th": 8,
-    "totalCompletionRateDelta": 109.67455837134152,
-    "avgCompletionRateDelta": 15.668,
-    "avgInverseSolvingRate": 6.702000000000001,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": "11.50"
-  },
-  {
     "username": "e816ed48800359bfd078c1444a40e00be6fbb5bf",
     "problemTried": 46,
     "problemSolved": 43,
@@ -89197,87 +85985,6 @@
     "avgInverseSolvingRate": 2.556666666666665,
     "avgScoreFinalSubmission": 4615.385,
     "avgSubmissionsPerDay": "12.50"
-  },
-  {
-    "username": "7171736c863d464860b4e3f674d78a101f12de4d",
-    "problemTried": 24,
-    "problemSolved": 24,
-    "totalSubmissions": 52,
-    "assignmentDetails": {
-      "assignments": {
-        "16e29978d00b41ae746603560176e34022252f5f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "5c1a8a51174e75ad756f967c1a5fced73fdb5466": {
-          "problemsSolved": 3,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 5,
-          "percentageSolved": 83.33333333333334
-        }
-      },
-      "participatedAssignments": 8
-    },
-    "dates": {
-      "10-04": 3,
-      "10-17": 4,
-      "10-18": 2,
-      "12-25": 8,
-      "12-28": 8,
-      "01-04": 4,
-      "01-05": 2,
-      "01-06": 1,
-      "01-08": 7,
-      "01-09": 13
-    },
-    "hours": {
-      "1": 2,
-      "2": 4,
-      "3": 1,
-      "4": 3,
-      "5": 2,
-      "6": 4,
-      "7": 12,
-      "8": 2,
-      "9": 4,
-      "11": 4,
-      "12": 5,
-      "13": 4,
-      "14": 1,
-      "15": 1,
-      "16": 2,
-      "17": 1
-    },
-    "ck": 5.5,
-    "qt": 9,
-    "th": 7.5,
-    "totalCompletionRateDelta": 101.57932027610342,
-    "avgCompletionRateDelta": 12.697,
-    "avgInverseSolvingRate": 5.6626086956521755,
-    "avgScoreFinalSubmission": 9583.333,
-    "avgSubmissionsPerDay": "9.00"
   },
   {
     "username": "ecd66b9bbdcc6ae1eb9a6b765868cba3601730b6",
@@ -92781,43 +89488,6 @@
     "avgInverseSolvingRate": 4.4421568627451,
     "avgScoreFinalSubmission": 9622.642,
     "avgSubmissionsPerDay": "17.00"
-  },
-  {
-    "username": "0aad9682c3c4280eb05dbd27e6cab55f4b1ae4b4",
-    "problemTried": 9,
-    "problemSolved": 8,
-    "totalSubmissions": 18,
-    "assignmentDetails": {
-      "assignments": {
-        "b0dd68f2291609f06666e60e689623dea26a0dff": {
-          "problemsSolved": 7,
-          "percentageSolved": 53.84615384615385
-        },
-        "013a41bc4aab7ce974228df5a2b5d5e6e0da64e8": {
-          "problemsSolved": 1,
-          "percentageSolved": 6.25
-        }
-      },
-      "participatedAssignments": 2
-    },
-    "dates": {
-      "09-18": 13,
-      "11-08": 5
-    },
-    "hours": {
-      "2": 5,
-      "3": 10,
-      "4": 2,
-      "7": 1
-    },
-    "ck": 9.5,
-    "qt": 10,
-    "th": 9,
-    "totalCompletionRateDelta": -104.36695348385845,
-    "avgCompletionRateDelta": -52.183,
-    "avgInverseSolvingRate": 13.762499999999996,
-    "avgScoreFinalSubmission": 9230.667,
-    "avgSubmissionsPerDay": "13.00"
   },
   {
     "username": "0aee33404db5dc946de8c70be37c6e82582885c6",
@@ -96471,63 +93141,6 @@
     "avgSubmissionsPerDay": "29.18"
   },
   {
-    "username": "5160b3f7714c45d60c100dd658c543831e390713",
-    "problemTried": 16,
-    "problemSolved": 14,
-    "totalSubmissions": 42,
-    "assignmentDetails": {
-      "assignments": {
-        "590cf6459bdae1e4327f25c1d1ea9c145d496054": {
-          "problemsSolved": 9,
-          "percentageSolved": 81.81818181818183
-        },
-        "7888a1bf9fa2450a91f7e7c10feefbb28f06d9fd": {
-          "problemsSolved": 3,
-          "percentageSolved": 60
-        },
-        "d229e2256d9e56a5be47740fb8313d1622ab34d6": {
-          "problemsSolved": 1,
-          "percentageSolved": 10
-        },
-        "e444f08475648b4ec9447c8b47ae5011a7313f9f": {
-          "problemsSolved": 1,
-          "percentageSolved": 10
-        },
-        "b80f3d7049ec416e2539e49e0db13af88fcb20a1": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 5
-    },
-    "dates": {
-      "09-26": 23,
-      "10-03": 12,
-      "10-23": 1,
-      "11-20": 5,
-      "01-02": 1
-    },
-    "hours": {
-      "0": 1,
-      "1": 15,
-      "2": 3,
-      "3": 4,
-      "7": 8,
-      "8": 4,
-      "11": 1,
-      "16": 3,
-      "17": 3
-    },
-    "ck": 6,
-    "qt": 5,
-    "th": 6,
-    "totalCompletionRateDelta": -157.02388424283077,
-    "avgCompletionRateDelta": -31.405,
-    "avgInverseSolvingRate": 3.703571428571427,
-    "avgScoreFinalSubmission": 9250,
-    "avgSubmissionsPerDay": "17.50"
-  },
-  {
     "username": "72ebebdb431cf5dbd216ed0c16660f40a963b082",
     "problemTried": 89,
     "problemSolved": 85,
@@ -98296,76 +94909,6 @@
     "avgSubmissionsPerDay": "12.17"
   },
   {
-    "username": "371922831538deb39791562bd384acdf91531999",
-    "problemTried": 29,
-    "problemSolved": 22,
-    "totalSubmissions": 63,
-    "assignmentDetails": {
-      "assignments": {
-        "2c36c78a351f1103182430948811e7255660b8c6": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "590cf6459bdae1e4327f25c1d1ea9c145d496054": {
-          "problemsSolved": 10,
-          "percentageSolved": 90.9090909090909
-        },
-        "3425a39c9806086b1732f59544b648443f44baa9": {
-          "problemsSolved": 10,
-          "percentageSolved": 100
-        },
-        "8c0714acbfcd46672d8106a79afabc1efd0f6212": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        },
-        "a1ec434737a1d09b18fcaea84ee39d77302b8856": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "b80f3d7049ec416e2539e49e0db13af88fcb20a1": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "8a19bdd1938fce2a29e584b42d547f9a6cce56ed": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        }
-      },
-      "participatedAssignments": 7
-    },
-    "dates": {
-      "09-05": 3,
-      "09-19": 1,
-      "09-20": 25,
-      "09-26": 19,
-      "09-27": 3,
-      "10-02": 2,
-      "01-12": 10
-    },
-    "hours": {
-      "0": 4,
-      "1": 10,
-      "2": 11,
-      "3": 2,
-      "4": 8,
-      "5": 2,
-      "6": 2,
-      "7": 6,
-      "8": 10,
-      "10": 4,
-      "13": 3,
-      "14": 1
-    },
-    "ck": 5,
-    "qt": 7.5,
-    "th": 7.5,
-    "totalCompletionRateDelta": -32.94633800076718,
-    "avgCompletionRateDelta": -4.707,
-    "avgInverseSolvingRate": 4.828636363636362,
-    "avgScoreFinalSubmission": 8036.897,
-    "avgSubmissionsPerDay": "18.00"
-  },
-  {
     "username": "45147b7f31a588b0c4245845675f7856f4dfae30",
     "problemTried": 34,
     "problemSolved": 27,
@@ -98608,35 +95151,6 @@
     "avgInverseSolvingRate": 5.172790697674421,
     "avgScoreFinalSubmission": 9492.383,
     "avgSubmissionsPerDay": "17.67"
-  },
-  {
-    "username": "78269c872dcec789b204623749f7d1bae813fe49",
-    "problemTried": 3,
-    "problemSolved": 1,
-    "totalSubmissions": 4,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 4
-    },
-    "hours": {
-      "2": 4
-    },
-    "ck": 8.5,
-    "qt": 10,
-    "th": 8.5,
-    "totalCompletionRateDelta": 1.2413793103448292,
-    "avgCompletionRateDelta": 1.241,
-    "avgInverseSolvingRate": 5.599999999999994,
-    "avgScoreFinalSubmission": 6578.5,
-    "avgSubmissionsPerDay": 0
   },
   {
     "username": "549b4b9f5408631f8a062a6a3b71c496646ee0fb",
@@ -101003,64 +97517,6 @@
     "avgSubmissionsPerDay": "12.00"
   },
   {
-    "username": "67118839ce79eab31a505fa22d378ff420ce006d",
-    "problemTried": 29,
-    "problemSolved": 25,
-    "totalSubmissions": 65,
-    "assignmentDetails": {
-      "assignments": {
-        "abff2d81f5f88d78ef8bd754622a0ee73bcf92a5": {
-          "problemsSolved": 3,
-          "percentageSolved": 100
-        },
-        "e2f8e1e99660d63959be1843ae7cff9faca3f348": {
-          "problemsSolved": 3,
-          "percentageSolved": 30
-        },
-        "b32e148b0bb88c0c741f65bc5da25f80ada415d3": {
-          "problemsSolved": 10,
-          "percentageSolved": 100
-        },
-        "99601f67144a4dcc0dd84a86d8350027a61c0b37": {
-          "problemsSolved": 6,
-          "percentageSolved": 42.857142857142854
-        },
-        "d052800bb65383d646c03a584973fa34adbb86d5": {
-          "problemsSolved": 3,
-          "percentageSolved": 50
-        }
-      },
-      "participatedAssignments": 5
-    },
-    "dates": {
-      "09-25": 8,
-      "10-09": 14,
-      "10-23": 11,
-      "11-13": 16,
-      "01-05": 4,
-      "01-09": 10,
-      "01-11": 2
-    },
-    "hours": {
-      "2": 1,
-      "3": 3,
-      "6": 16,
-      "7": 22,
-      "8": 11,
-      "11": 4,
-      "12": 2,
-      "14": 6
-    },
-    "ck": 7.5,
-    "qt": 9.5,
-    "th": 7,
-    "totalCompletionRateDelta": -76.3093111973709,
-    "avgCompletionRateDelta": -15.262,
-    "avgInverseSolvingRate": 5.796400000000001,
-    "avgScoreFinalSubmission": 8916.241,
-    "avgSubmissionsPerDay": "11.80"
-  },
-  {
     "username": "2f2abfea66cd61a09939960e751666a2c0913430",
     "problemTried": 49,
     "problemSolved": 44,
@@ -102014,57 +98470,6 @@
     "avgSubmissionsPerDay": "19.93"
   },
   {
-    "username": "2e8b47e527548d947c688069d4a5c60ed67ace19",
-    "problemTried": 8,
-    "problemSolved": 2,
-    "totalSubmissions": 22,
-    "assignmentDetails": {
-      "assignments": {
-        "7638c5a850454dd8b3e4d31c9a781b1eeaca039f": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 2,
-          "percentageSolved": 50
-        }
-      },
-      "participatedAssignments": 4
-    },
-    "dates": {
-      "10-23": 4,
-      "01-02": 2,
-      "01-03": 1,
-      "01-08": 13,
-      "01-09": 2
-    },
-    "hours": {
-      "2": 4,
-      "5": 7,
-      "6": 2,
-      "7": 3,
-      "9": 2,
-      "10": 1,
-      "14": 3
-    },
-    "ck": 5.5,
-    "qt": 8,
-    "th": 8,
-    "totalCompletionRateDelta": -289.6220940503109,
-    "avgCompletionRateDelta": -72.406,
-    "avgInverseSolvingRate": 3.4299999999999997,
-    "avgScoreFinalSubmission": 2500,
-    "avgSubmissionsPerDay": "13.00"
-  },
-  {
     "username": "6aea2ab4cff49df8f384b81558264c1390a8cf06",
     "problemTried": 59,
     "problemSolved": 58,
@@ -102603,41 +99008,6 @@
     "avgInverseSolvingRate": 5.0105797101449285,
     "avgScoreFinalSubmission": 9900,
     "avgSubmissionsPerDay": "15.63"
-  },
-  {
-    "username": "17ce312f66b2f6b7c5766e4d5cb1f7452aa20911",
-    "problemTried": 9,
-    "problemSolved": 5,
-    "totalSubmissions": 11,
-    "assignmentDetails": {
-      "assignments": {},
-      "participatedAssignments": 0
-    },
-    "dates": {
-      "10-16": 5,
-      "10-20": 1,
-      "03-21": 1,
-      "03-22": 2,
-      "03-24": 1,
-      "03-26": 1
-    },
-    "hours": {
-      "3": 1,
-      "4": 1,
-      "10": 2,
-      "11": 3,
-      "12": 1,
-      "13": 2,
-      "14": 1
-    },
-    "ck": 7.5,
-    "qt": 10,
-    "th": 8,
-    "totalCompletionRateDelta": 0,
-    "avgCompletionRateDelta": 0,
-    "avgInverseSolvingRate": 10.107500000000002,
-    "avgScoreFinalSubmission": 6281.444,
-    "avgSubmissionsPerDay": 0
   },
   {
     "username": "26c932032169ad849d274427dcbdcfb190f843d8",
@@ -103701,58 +100071,6 @@
     "avgSubmissionsPerDay": "18.96"
   },
   {
-    "username": "53b56263b633c2be1e87243fd37356c924eb9a4e",
-    "problemTried": 17,
-    "problemSolved": 16,
-    "totalSubmissions": 27,
-    "assignmentDetails": {
-      "assignments": {
-        "5c1a8a51174e75ad756f967c1a5fced73fdb5466": {
-          "problemsSolved": 3,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 1,
-          "percentageSolved": 50
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 6,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 5
-    },
-    "dates": {
-      "12-25": 8,
-      "01-04": 4,
-      "01-06": 2,
-      "01-08": 5,
-      "01-09": 8
-    },
-    "hours": {
-      "6": 7,
-      "7": 10,
-      "8": 4,
-      "9": 6
-    },
-    "ck": 8,
-    "qt": 9,
-    "th": 10,
-    "totalCompletionRateDelta": 24.458418636759134,
-    "avgCompletionRateDelta": 4.892,
-    "avgInverseSolvingRate": 6.026875000000001,
-    "avgScoreFinalSubmission": 9411.765,
-    "avgSubmissionsPerDay": "8.00"
-  },
-  {
     "username": "9d91374d67624389dacb4b429b8fa8c18442b29c",
     "problemTried": 18,
     "problemSolved": 16,
@@ -104100,36 +100418,6 @@
     "avgInverseSolvingRate": 3.8144117647058833,
     "avgScoreFinalSubmission": 9885.714,
     "avgSubmissionsPerDay": "20.71"
-  },
-  {
-    "username": "242788be909743713c5ade123c9f0b13cc4b2db6",
-    "problemTried": 4,
-    "problemSolved": 1,
-    "totalSubmissions": 6,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 1,
-          "percentageSolved": 20
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 6
-    },
-    "hours": {
-      "2": 2,
-      "3": 4
-    },
-    "ck": 7.5,
-    "qt": 7.5,
-    "th": 9.5,
-    "totalCompletionRateDelta": 1.2413793103448292,
-    "avgCompletionRateDelta": 1.241,
-    "avgInverseSolvingRate": 5.599999999999994,
-    "avgScoreFinalSubmission": 5052.25,
-    "avgSubmissionsPerDay": "6.00"
   },
   {
     "username": "9c03af1da21c500de8e0a1be24e3c22d341961ca",
@@ -107312,91 +103600,6 @@
     "avgSubmissionsPerDay": "10.22"
   },
   {
-    "username": "80212c0b606f5dcba043483a07f677a5455c3901",
-    "problemTried": 24,
-    "problemSolved": 23,
-    "totalSubmissions": 74,
-    "assignmentDetails": {
-      "assignments": {
-        "16e29978d00b41ae746603560176e34022252f5f": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "5c1a8a51174e75ad756f967c1a5fced73fdb5466": {
-          "problemsSolved": 3,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 6,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 8
-    },
-    "dates": {
-      "10-18": 1,
-      "12-25": 3,
-      "12-28": 3,
-      "12-29": 1,
-      "12-30": 2,
-      "12-31": 4,
-      "01-02": 15,
-      "01-05": 3,
-      "01-06": 6,
-      "01-07": 20,
-      "01-09": 13,
-      "01-10": 3
-    },
-    "hours": {
-      "0": 1,
-      "1": 3,
-      "2": 2,
-      "3": 3,
-      "4": 6,
-      "5": 2,
-      "6": 3,
-      "7": 2,
-      "8": 4,
-      "9": 1,
-      "10": 1,
-      "12": 1,
-      "14": 13,
-      "15": 19,
-      "16": 6,
-      "17": 2,
-      "18": 1,
-      "23": 4
-    },
-    "ck": 6.5,
-    "qt": 9,
-    "th": 8.5,
-    "totalCompletionRateDelta": 18.245986942770074,
-    "avgCompletionRateDelta": 2.281,
-    "avgInverseSolvingRate": 6.223913043478262,
-    "avgScoreFinalSubmission": 9583.333,
-    "avgSubmissionsPerDay": "13.50"
-  },
-  {
     "username": "5eecd9dc3fe216cd45a2194e5f1a1d472a3fec56",
     "problemTried": 107,
     "problemSolved": 100,
@@ -107745,71 +103948,6 @@
     "avgInverseSolvingRate": 5.1098823529411765,
     "avgScoreFinalSubmission": 9758.865,
     "avgSubmissionsPerDay": "11.00"
-  },
-  {
-    "username": "806b5e171e5cd80e62cc28bc7fb644f6b50399de",
-    "problemTried": 19,
-    "problemSolved": 16,
-    "totalSubmissions": 35,
-    "assignmentDetails": {
-      "assignments": {
-        "5c1a8a51174e75ad756f967c1a5fced73fdb5466": {
-          "problemsSolved": 3,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 1,
-          "percentageSolved": 50
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "38733453c8d8c69c1c072d234a9da60a152f5b4a": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 6
-    },
-    "dates": {
-      "12-25": 5,
-      "01-01": 7,
-      "01-03": 4,
-      "01-08": 7,
-      "01-09": 5,
-      "01-10": 7
-    },
-    "hours": {
-      "2": 6,
-      "3": 1,
-      "6": 1,
-      "7": 3,
-      "8": 1,
-      "9": 3,
-      "10": 1,
-      "13": 5,
-      "15": 2,
-      "16": 9,
-      "17": 1,
-      "19": 2
-    },
-    "ck": 2,
-    "qt": 8,
-    "th": 7.5,
-    "totalCompletionRateDelta": 24.52803822482136,
-    "avgCompletionRateDelta": 4.088,
-    "avgInverseSolvingRate": 5.283125000000002,
-    "avgScoreFinalSubmission": 8421.053,
-    "avgSubmissionsPerDay": "7.00"
   },
   {
     "username": "3d185c0c28fcae1ca2f5876a8e2e6681b38e5af7",
@@ -108183,74 +104321,6 @@
     "avgInverseSolvingRate": 4.466122448979592,
     "avgScoreFinalSubmission": 8142.38,
     "avgSubmissionsPerDay": "13.15"
-  },
-  {
-    "username": "26cc2520b79b2222de0037a32fcaeb81c09f3002",
-    "problemTried": 22,
-    "problemSolved": 21,
-    "totalSubmissions": 80,
-    "assignmentDetails": {
-      "assignments": {
-        "16e29978d00b41ae746603560176e34022252f5f": {
-          "problemsSolved": 1,
-          "percentageSolved": 100
-        },
-        "5c1a8a51174e75ad756f967c1a5fced73fdb5466": {
-          "problemsSolved": 3,
-          "percentageSolved": 100
-        },
-        "ea5ed919e19e24f419b76e2cdaf10ce85235af34": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "c7af780cdb1944dea715be5b5a1acdd189e5008a": {
-          "problemsSolved": 1,
-          "percentageSolved": 50
-        },
-        "bee1db2c5c9bb12bd23960692cb1ca7ca1a95978": {
-          "problemsSolved": 2,
-          "percentageSolved": 100
-        },
-        "feac75b57862fb1653d3835bea439742ea93c8c8": {
-          "problemsSolved": 4,
-          "percentageSolved": 100
-        },
-        "44be2c8cabb8f24b7d0717010af75e67b1b6c5f5": {
-          "problemsSolved": 6,
-          "percentageSolved": 100
-        }
-      },
-      "participatedAssignments": 7
-    },
-    "dates": {
-      "10-17": 3,
-      "12-25": 21,
-      "12-28": 14,
-      "01-04": 12,
-      "01-05": 5,
-      "01-06": 5,
-      "01-08": 4,
-      "01-09": 16
-    },
-    "hours": {
-      "2": 2,
-      "3": 16,
-      "4": 5,
-      "6": 9,
-      "8": 1,
-      "9": 3,
-      "13": 10,
-      "14": 17,
-      "15": 17
-    },
-    "ck": 6.5,
-    "qt": 9,
-    "th": 9.5,
-    "totalCompletionRateDelta": 54.7043202761034,
-    "avgCompletionRateDelta": 7.815,
-    "avgInverseSolvingRate": 5.891000000000001,
-    "avgScoreFinalSubmission": 9545.455,
-    "avgSubmissionsPerDay": "15.75"
   },
   {
     "username": "6cbee42bf7c6251711a38683e4e1d6b15533f5a5",
@@ -111524,35 +107594,6 @@
     "avgSubmissionsPerDay": "25.67"
   },
   {
-    "username": "44327e7dea2e5f69fea97c9333f7cd64484303c5",
-    "problemTried": 8,
-    "problemSolved": 6,
-    "totalSubmissions": 12,
-    "assignmentDetails": {
-      "assignments": {},
-      "participatedAssignments": 0
-    },
-    "dates": {
-      "12-28": 5,
-      "12-29": 7
-    },
-    "hours": {
-      "4": 2,
-      "5": 1,
-      "7": 1,
-      "13": 6,
-      "14": 2
-    },
-    "ck": 7.5,
-    "qt": 10,
-    "th": 8.5,
-    "totalCompletionRateDelta": 0,
-    "avgCompletionRateDelta": 0,
-    "avgInverseSolvingRate": 9.213333333333338,
-    "avgScoreFinalSubmission": 9428.571,
-    "avgSubmissionsPerDay": "7.00"
-  },
-  {
     "username": "a3748712b8685edb49cf966b7e662e1647503013",
     "problemTried": 2,
     "problemSolved": 1,
@@ -113979,35 +110020,6 @@
     "avgSubmissionsPerDay": "13.69"
   },
   {
-    "username": "4cc8a421bf0c776aae86c3838ed759171d4cee50",
-    "problemTried": 2,
-    "problemSolved": 0,
-    "totalSubmissions": 2,
-    "assignmentDetails": {
-      "assignments": {
-        "7468226d3234f1ddf34ca10eb72ceb28223d9c3f": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 2
-    },
-    "hours": {
-      "2": 2
-    },
-    "ck": 7,
-    "qt": 8,
-    "th": 8,
-    "totalCompletionRateDelta": -18.75862068965517,
-    "avgCompletionRateDelta": -18.759,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 0,
-    "avgSubmissionsPerDay": 0
-  },
-  {
     "username": "9b536900fbffe20f4db747af055dec68b3ddb6ab",
     "problemTried": 1,
     "problemSolved": 1,
@@ -114357,54 +110369,6 @@
     "avgInverseSolvingRate": 6.8825,
     "avgScoreFinalSubmission": 9698.22,
     "avgSubmissionsPerDay": "25.67"
-  },
-  {
-    "username": "56a326e7e14e72020e3e0ca3f329baebc245b3f1",
-    "problemTried": 28,
-    "problemSolved": 26,
-    "totalSubmissions": 58,
-    "assignmentDetails": {
-      "assignments": {
-        "b0dd68f2291609f06666e60e689623dea26a0dff": {
-          "problemsSolved": 13,
-          "percentageSolved": 100
-        },
-        "816cd7202ed37841f9f5740fad56555a434a0ca6": {
-          "problemsSolved": 4,
-          "percentageSolved": 80
-        },
-        "a24e2a245074bd4a09a7921b84bb7360b7da7b47": {
-          "problemsSolved": 9,
-          "percentageSolved": 90
-        }
-      },
-      "participatedAssignments": 3
-    },
-    "dates": {
-      "09-18": 22,
-      "09-25": 12,
-      "10-03": 23,
-      "10-06": 1
-    },
-    "hours": {
-      "0": 3,
-      "1": 9,
-      "2": 1,
-      "6": 1,
-      "7": 11,
-      "8": 10,
-      "14": 4,
-      "15": 4,
-      "17": 15
-    },
-    "ck": 10,
-    "qt": 8,
-    "th": 9,
-    "totalCompletionRateDelta": 48.197222655640516,
-    "avgCompletionRateDelta": 16.066,
-    "avgInverseSolvingRate": 10.908076923076923,
-    "avgScoreFinalSubmission": 9689.286,
-    "avgSubmissionsPerDay": "19.00"
   },
   {
     "username": "3c499f0944773b5ae529a4356d92df5ce8ca7c0c",
@@ -115422,35 +111386,6 @@
     "avgInverseSolvingRate": 4.135,
     "avgScoreFinalSubmission": 9948.319,
     "avgSubmissionsPerDay": "12.25"
-  },
-  {
-    "username": "1a68900dd1fd8fa7892cc9450d53e991ca241785",
-    "problemTried": 5,
-    "problemSolved": 0,
-    "totalSubmissions": 7,
-    "assignmentDetails": {
-      "assignments": {
-        "2c36c78a351f1103182430948811e7255660b8c6": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        }
-      },
-      "participatedAssignments": 1
-    },
-    "dates": {
-      "09-05": 7
-    },
-    "hours": {
-      "9": 7
-    },
-    "ck": 9.5,
-    "qt": 10,
-    "th": 9.5,
-    "totalCompletionRateDelta": -9.6,
-    "avgCompletionRateDelta": -9.6,
-    "avgInverseSolvingRate": 0,
-    "avgScoreFinalSubmission": 346.25,
-    "avgSubmissionsPerDay": "7.00"
   },
   {
     "username": "3954b15205238530f2cb3b66db735fad6d0c8fda",
@@ -117466,55 +113401,6 @@
     "avgInverseSolvingRate": 7.663488372093025,
     "avgScoreFinalSubmission": 9725.911,
     "avgSubmissionsPerDay": "16.89"
-  },
-  {
-    "username": "09cbbae64d03af8ca53224aaef7657171ba27f50",
-    "problemTried": 20,
-    "problemSolved": 18,
-    "totalSubmissions": 29,
-    "assignmentDetails": {
-      "assignments": {
-        "b0dd68f2291609f06666e60e689623dea26a0dff": {
-          "problemsSolved": 13,
-          "percentageSolved": 100
-        },
-        "816cd7202ed37841f9f5740fad56555a434a0ca6": {
-          "problemsSolved": 4,
-          "percentageSolved": 80
-        },
-        "a24e2a245074bd4a09a7921b84bb7360b7da7b47": {
-          "problemsSolved": 0,
-          "percentageSolved": 0
-        },
-        "e6049ec614d5055e597066cd60c0da4eabd80f1b": {
-          "problemsSolved": 1,
-          "percentageSolved": 33.33333333333333
-        }
-      },
-      "participatedAssignments": 4
-    },
-    "dates": {
-      "09-27": 2,
-      "10-10": 3,
-      "10-14": 21,
-      "10-22": 3
-    },
-    "hours": {
-      "4": 2,
-      "11": 16,
-      "12": 7,
-      "13": 2,
-      "14": 1,
-      "16": 1
-    },
-    "ck": 10,
-    "qt": 8,
-    "th": 9,
-    "totalCompletionRateDelta": -86.00567589508414,
-    "avgCompletionRateDelta": -21.501,
-    "avgInverseSolvingRate": 9.931111111111111,
-    "avgScoreFinalSubmission": 9735,
-    "avgSubmissionsPerDay": "21.00"
   },
   {
     "username": "9aace874af47927645c48f21ffeb82f8e15f24e1",
@@ -121394,30 +117280,6 @@
     "avgInverseSolvingRate": 4.101940298507463,
     "avgScoreFinalSubmission": 9418.694,
     "avgSubmissionsPerDay": "17.71"
-  },
-  {
-    "username": "4932174dcf0408a7eb862930c9c6be33d30825a6",
-    "problemTried": 1,
-    "problemSolved": 1,
-    "totalSubmissions": 1,
-    "assignmentDetails": {
-      "assignments": {},
-      "participatedAssignments": 0
-    },
-    "dates": {
-      "10-15": 1
-    },
-    "hours": {
-      "17": 1
-    },
-    "ck": 7.5,
-    "qt": 10,
-    "th": 9,
-    "totalCompletionRateDelta": 0,
-    "avgCompletionRateDelta": 0,
-    "avgInverseSolvingRate": 15.430000000000007,
-    "avgScoreFinalSubmission": 10000,
-    "avgSubmissionsPerDay": 0
   },
   {
     "username": "cff1765d7a97d3f012a354586ccfd49fdaf6aa44",

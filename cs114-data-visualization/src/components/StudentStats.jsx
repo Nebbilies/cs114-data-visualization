@@ -1,9 +1,8 @@
 import Select from "react-select";
 import {useState, useMemo, lazy} from "react";
 
-import studentStats from "../../../Data Transforms/data/studentStats.json";
+import studentStats from "../../../Data Transforms/data/studentStats_1.json";
 import assignmentStats from "../../../Data Transforms/data/assignmentAvgCompletionRates.json";
-import {Chart} from "react-chartjs-2";
 import TimeDistributionChart from "./TimeDistributionChart.jsx";
 import DateHeatmap from "./DateHeatmap.jsx";
 import GlobalStats from "./GlobalStats.jsx";

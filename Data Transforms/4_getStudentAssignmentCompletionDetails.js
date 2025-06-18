@@ -7,7 +7,7 @@ function getStudentAssignmentCompletionDetails(student) {
     let assignments = {};
     let problems = [];
     students.forEach(row => {
-        // '1bec7c0b6a9bd8f556a8554c5012dcb778460bac' is probably a practice assignment (README.md)
+        // '1bec7c0b6a9bd8f556a8554c5012dcb778460bac' is prob a practice assignment (README.md)
         if (row.assignmentId !== '1bec7c0b6a9bd8f556a8554c5012dcb778460bac') {
             if (row.username === student.username) {
                 if (!assignments[row.assignmentId]) {

@@ -17,7 +17,7 @@ function rawToJson() {
                         case 2:
                             return 'username';
                         case 3:
-                            return null; // isFinal
+                            return 'isFinal';
                         case 4:
                             return null; // status
                         case 5:

@@ -19,7 +19,7 @@ function GlobalStats({studentStats}) {
             labels: studentUsernames,
             datasets: [
                 {
-                    label: 'Total Submissions',
+                    label: comparisonFeature,
                     data: featureValues,
                     backgroundColor: 'rgba(153, 102, 255, 0.6)',
                     showLine: true,
@@ -28,7 +28,7 @@ function GlobalStats({studentStats}) {
                     tension: 0.4,
                 },
                 {
-                    label: 'CK Score',
+                    label: scoreFeature,
                     data: scoreValues,
                     backgroundColor: 'rgba(75, 192, 192, 0.6)',
                     yAxisID: 'y-left',
@@ -114,10 +114,12 @@ function GlobalStats({studentStats}) {
                         <option value='totalCompletionRateDelta'>Total Completion Rate Delta</option>
                         <option value='avgCompletionRateDelta'>Average Completion Rate Delta</option>
                         <option value='avgInverseSolvingRate'>Average Inverse Solving Rate</option>
+                        <option value='avgScoreFinalSubmission'>Average Score of Final Submissions</option>
+                        <option value='avgSubmissionsPerDay'>Average Submissions Per Day</option>
                     </select>
                 </div>
                 <div className='flex flex-col items-center'>
-                    <label className='text-[#4bc0c0] mb-2 text-xl font-semibold'>Score Feature</label>
+                    <label className='text-[#4bc0c0] mb-2 text-xl font-semibold'>Score Label</label>
                     <select
                         className='bg-[#2A2A2A] text-white border border-[#414141] rounded-lg p-2'
                         value={scoreFeature}
