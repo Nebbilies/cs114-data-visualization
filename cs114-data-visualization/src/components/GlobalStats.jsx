@@ -116,6 +116,8 @@ function GlobalStats({studentStats}) {
                         <option value='avgInverseSolvingRate'>Average Inverse Solving Rate</option>
                         <option value='avgScoreFinalSubmission'>Average Score of Final Submissions</option>
                         <option value='avgSubmissionsPerDay'>Average Submissions Per Day</option>
+                        <option value={'submissionHourVariance'}>Submission Hour Variance</option>
+                        <option value={'weekendSubmissionRatio'}>Weekend Submission Ratio</option>
                     </select>
                 </div>
                 <div className='flex flex-col items-center'>

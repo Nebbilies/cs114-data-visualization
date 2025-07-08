@@ -13,7 +13,7 @@ studentStats.forEach((student) => {
         }
     });
 
-    student.avgSubmissionsPerDay = totalDays > 0 ? (totalSubmissions / totalDays).toFixed(2) : 0;
+    student.avgSubmissionsPerDay = totalDays > 0 ? Math.round(totalSubmissions / totalDays * 100) / 100 : 0;
 })
 
 fs.writeFileSync('./data/studentStats.json', JSON.stringify(studentStats, null, 2), 'utf8');
